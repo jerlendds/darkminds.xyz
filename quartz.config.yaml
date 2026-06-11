@@ -14,6 +14,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
+      title: Zilla Slab Highlight
       header: Questrial
       body: Lato
       code: IBM Plex Mono
@@ -98,6 +99,28 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      useThemeFonts: false
+      fontOrigin: googleFonts
+      title:
+        name: Zilla Slab Highlight
+        weights:
+          - 700
+      header:
+        name: Questrial
+        weights:
+          - 400
+      body:
+        name: Lato
+        weights:
+          - 400
+          - 700
+        includeItalic: true
+      code:
+        name: IBM Plex Mono
+        weights:
+          - 400
+          - 600
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
