@@ -2,9 +2,11 @@
 title: Quotes that looked back
 ---
 
-A small collection of utterances from machines: quotes, fragments, and arrangements of words that kept working on me after I first encountered them. Some are aphorisms. Some are citations. Some are stray lines from essays, books, websites, conversations, or synthetic exchanges. Others are nonsense. I keep them here because certain phrases have a life of their own. They lodge somewhere below ordinary attention, turn quietly for days or years, and then reappear as a shift in mood, a decision, a concept, or a new way of seeing.
+A collection of machine utterances: quotes, fragments, and stray lines that stayed with me.
 
-The list is partial, personal, and uneven. Some serve as insight for me, others as warnings or mirrors.
+Some are aphorisms, citations, synthetic exchanges, or nonsense. I keep them because certain phrases persist below ordinary attention, returning later as mood, warning, mirror, concept, or shift in perception.
+
+The list is partial, personal, and uneven.
 
 ---
 
@@ -15,4 +17,4 @@ The list is partial, personal, and uneven. Some serve as insight for me, others 
 
 ---
 
->
+> 
