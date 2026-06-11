@@ -213,11 +213,11 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: "https://github.com/jerlendds"
-        Codeberg: "https://codeberg.org/jerlendds"
-        Gitlab: "https://gitlab.com/jerlendds"
-        RSS: "https://darkminds.xyz/index.xml"
-        Discord: "https://discord.gg/E6bWsyBJKA"
+        GitHub: https://github.com/jerlendds
+        Codeberg: https://codeberg.org/jerlendds
+        Gitlab: https://gitlab.com/jerlendds
+        RSS: https://darkminds.xyz/index.xml
+        Discord: https://discord.gg/E6bWsyBJKA
   - source: github:quartz-community/recent-notes
     enabled: true
   - source: github:quartz-community/spacer
@@ -249,6 +249,17 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:jerlendds/quartz-chat-bubbles
+    enabled: true
+    options:
+      maxHeight: 600
+      defaultCollapsed: false
+      defaultSide: left
+      expandLabel: Show full conversation
+      collapseLabel: Collapse conversation
+      enableTranscriptSyntax: true
+      enableDirectiveSyntax: true
+    order: 50
 layout:
   groups:
     toolbar:

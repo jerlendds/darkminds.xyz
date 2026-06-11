@@ -193,6 +193,12 @@
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-06-11T02:44:50.687Z"
     },
+    "quartz-chat-bubbles": {
+      "source": "github:jerlendds/quartz-chat-bubbles",
+      "resolved": "https://github.com/jerlendds/quartz-chat-bubbles.git",
+      "commit": "c91cffe7874f60df4ef1ef3c719169be34025285",
+      "installedAt": "2026-06-11T15:54:14.447Z"
+    },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
       "resolved": "https://github.com/quartz-community/reader-mode.git",

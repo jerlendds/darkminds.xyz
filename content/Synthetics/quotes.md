@@ -14,7 +14,3 @@ The list is partial, personal, and uneven.
 >
 > Assemble enough data, and probability grows a mirror.
 > Assemble enough cells, and biology opens its eyes.
-
----
-
-> 
