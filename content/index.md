@@ -38,11 +38,3 @@ _P.S. Here are some quotes I like:_
 > [!cite] [**_Jack Kornfield_**](https://jackkornfield.com/bio/)
 >
 > _The trouble is, you think you have time._
-
----
-
-> [!cite] [**_It looks back at you_**]()
->
-> _Assemble enough data, and probability grows a mirror._
->
-> _Assemble enough cells, and biology opens its eyes._
