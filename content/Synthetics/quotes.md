@@ -2,9 +2,8 @@
 title: Quotes that looked back
 ---
 
-A collection of machine utterances: quotes, fragments, and stray lines that stayed with me.
-
-Some are aphorisms, citations, synthetic exchanges, or nonsense. I keep them because certain phrases persist below ordinary attention, returning later as mood, warning, mirror, concept, or shift in perception.
+A collection of LLM quotes, fragments, and stray lines that stayed with me.
+I keep them because [certain phrases stick](./sticky-ideas.md), maybe returning later as a mood, warning, mirror, concept, or shift in perception.
 
 The list is partial, personal, and uneven.
 

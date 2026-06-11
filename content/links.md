@@ -5,12 +5,12 @@ publish: true
 date: 2025-06-28
 ---
 
-
-## An assortment of links
-
 At a surface level these piqued my interest, I'm storing them here to read later:
 
+## Link dump
 
+-
+- https://www.matthewsiu.com
 - https://worrydream.com/refs/
 - https://contraptions.venkateshrao.com/p/a-camera-not-an-engine
 - https://contraptions.venkateshrao.com/p/mediocre-computing
@@ -45,7 +45,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://untested.sonnet.io/notes/an-everything-canvas/
 
 - https://sonnet.io/posts/hi
-
   - I intend to reach out to this person after I move, I like their writing a lot :)
 
 - https://web.archive.org/web/20211208055926/https://xeny.net/Muddle%20Your%20Way%20To%20Success
@@ -76,17 +75,9 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://www.matthewsiu.com/pathfinder
 
-  - ![pathfinder](2025-07-03_10-34.png)
-
-  - this allows you to find a "path" between two words
-  - [] todo: document my idea related to this for [osintbuddy](./osib/index.md)
-  - [] todo: add edge expand hover effect to [osintbuddy](./osib/index.md)
-
 - https://github.com/mozilla/fathom
 
 - https://tenkai.tech/
-
-  - [] todo: see if I can take any ideas here for OSIB (osintbuddy)
 
 - https://kupajo.com/category/field-notes-for-life/
 
@@ -138,11 +129,7 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://promptcoding.substack.com/p/theft-problem-in-open-source-code
 
-  > - leave a reply or subscribe so I can invite you to a transparent and fair platform that I am launching in the coming months!
-
 - https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form
-
-  > - There is a moment, just before creation begins, when the work exists in its most perfect form in your imagination. It lives in a crystalline space between intention and execution, where every word is precisely chosen, every brushstroke deliberate, every note inevitable, but only in your mind. In this prelapsarian state, the work is flawless because it is nothing: a ghost of pure potential that haunts the creator with its impossible beauty.
 
 - https://www.baldurbjarnason.com/2025/trusting-your-own-judgement-on-ai/
 
@@ -152,8 +139,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://www.nature.com/articles/s41598-025-97370-z
 
-  - > This study shows that exposure to light that preferentially targets circadian photoreception reduces loss aversion, which may encourage gambling behaviour.
-
 - https://www.nature.com/articles/s41586-025-09142-4
 
 - https://users.rust-lang.org/t/writing-a-plugin-system-in-rust/119980
@@ -162,17 +147,10 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://blog.elest.io/browserless-free-open-source-website-scraping-automation-tool/
 
-- instant browser startup web scraping snapshots site:github.com
-
 - https://labs.voidwire.info/
 
 - https://gist.github.com/paulproteus/356a6c008ec956ca29742e1b95997a61
-
-  - This document explains some risks of server-side image processing and explains a technique to make that much safer. I recommend using this technique.
-
 - https://gist.github.com/corporatepiyush/c30bfc78252da689a692c4db2035e3f0
-
-  - This script creates a true binary-compatible proxy that preserves all the binary interfaces of the original executable while adding nsjail sandboxing. This approach is more sophisticated than a simple wrapper, as it maintains full binary compatibility.
 
 - https://gist.github.com/cedrickchee/f729e848b52eab8fbc88a3910072198c
 
@@ -228,12 +206,10 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://justin.searls.co/posts/full-breadth-developers/
 
-- https://spanner.fyi/ (Spanner is a distributed database Google initiated a while ago to build a highly available and highly consistent database for its own workloads)
+- https://spanner.fyi/
+- https://sumble.com/orgs
 
-- todo, check out this product eventually: https://sumble.com/orgs
-
-- WOAH, this is a brilliant idea: https://news.ycombinator.com/item?id=44498133
-
+- https://news.ycombinator.com/item?id=44498133
   - https://alvarotrigo.com/blog/css-text-animations/
 
 - another cool-looking product I want to check out: https://www.secoda.co/blog/visualize-data-relationships-erds-secoda
@@ -249,7 +225,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://papersplease.org/wp/2025/07/08/the-dangers-of-identity-databases/
 
 - https://rmarcus.info/blog/2023/07/25/papers.html
-
   - Most influential database papers
 
 - https://herbertlui.net/three-things-about-options/
@@ -271,39 +246,21 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Developing_WebExtensions_for_Firefox_for_Android.html - https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/
 
 - https://mnvr.in/infinity
-
   - Infinity is not a big number
 
 - https://www.phoronix.com/news/Chromium-Skia-Graphite - Google Developing Skia "Graphite" For Faster Chrome: Multi-Threaded + Modern Graphics APIs
 
 - https://www.lexology.com/library/detail.aspx?g=bbef1939-2af0-465a-8b8f-c1ff3ebe9118
 
-  - The new EU Product Liability Directive: Implications for software, digital products, and cybersecurity
-    - The PLD explicitly includes software, AI, and digital services within the definition of “products” subject to strict liability.
-    - Non-compliance with cybersecurity requirements or failure to provide security updates can constitute a product defect.
-    - Companies cannot contractually exclude or limit their liability for software or cybersecurity defects.
-    - Increased litigation risk is expected because of expanded liability and collective redress mechanisms.
-
 - https://beaglesecurity.com/
 
 - https://asteroid.ai/blog/graph-powered-browser-agents
 
-  - I should something like this for OSINTBuddy...
-  - > break complex tasks into simple, connected steps.
-  - > Each graph node handles a small, focused job—like “click search” or “fill out step 4 of the form”
-
 - https://www.wildbarethoughts.com/p/taste-is-the-new-intelligence
-
-  - > Taste is often dismissed as something shallow or subjective. But at its core, it’s a form of literacy—a way of reading the world. Good taste isn’t about being right. It’s about being attuned. To rhythm, to proportion, to vibe. It’s knowing when something is off, even if you can’t fully articulate why.
-
-  - > The people with taste aren’t always the loudest. They’re the ones whose work has resonance. Whose rooms feel calm. Whose recommendations always land. They have an internal tuning fork that rejects the cheap dopamine of novelty for something more enduring.
-
-  - > This isn’t just about design. It’s about thought. Taste is what allows you to skim past the performative noise, the fake depth, the viral bait, and know—instinctively—what’s worth your time.
 
 - https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/
 
 - https://evilmartians.com/chronicles/we-studied-100-devtool-landing-pages-here-is-what-actually-works-in-2025
-
   - Switchable multiple product UI, should add something like this to OSINTBuddy
 
 - https://www.spacedaily.com/reports/Ultrasound_triggers_nuclear_decay_anomaly_hinting_at_flexible_space_time_999.html
@@ -348,7 +305,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://www.clearerthinking.org/post/when-two-things-seem-linked-but-aren-t-understanding-different-types-of-correlations
 
 - https://github.com/0x676e67/rnet
-
   - TODO: Add to OSIB
 
 - https://rodyne.com/?p=2911
@@ -405,8 +361,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://www.gap-map.org/capabilities/automated-scientific-fraud-detection/
 
-  - Develop AI and multimodal LLM systems to automatically detect fraudulent research, flag suspicious publications, and improve overall scientific integrity. Especially as rapid advancements in AI models make it feasible to generate inaccurate scientific content at scale to disrupt.
-
 - https://surfingcomplexity.blog/2025/06/01/pattern-machines-that-we-dont-understand/
 
 - https://pliutau.com/reading-list-rss/
@@ -414,41 +368,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://jfmengels.net/essential-and-accidental-configuration/
 
 - https://medium.com/@plonska.ola_24342/no-code-tools-for-data-science-in-2025-607d41a3f610 - I want to make parts of making OSIB plugins no-code/low-code, maybe there's some ideas I can take from here...
-
-  > - Integrated AI Assistance — smart guidance. Modern tools need built-in AI agents that can explain results, generate workflows, and even teach concepts in real time.
-  > - Full Data Science Workflow Support — from loading and cleaning data to modeling, evaluation, and reporting. No-code tools must cover the entire lifecycle, not just charts or dashboards.
-  > - Model Transparency & Explainability — especially important in regulated industries or critical applications. Users need visual explanations, feature importance, and interpretable outputs — even without code.
-  > - Offline & Secure Execution — privacy matters. Tools should allow local work with sensitive data, without requiring constant cloud access.
-  > - Smooth Transition to Code — the best tools are no-code by default, but not code-locked. They should allow exporting workflows, reviewing code, or switching to script mode when needed.
-  > - Collaboration & Reproducibility — In 2025, teams work together asynchronously. Tools must support shared workflows, versioning, and notebook-style exports.
-  >   Support for AI & AutoML — manual feature engineering is out; smart automation is in. Users expect tools to suggest models, tune hyperparameters, and optimize pipelines, with just a few clicks.
-  >   MLJAR Studio
-  >
-  > Advantages:
-  > Built-in AI Agent (3 modes) — Code Assistant, Data Analyst, and Teacher — supports code generation, data insights, and interactive learning.
-  > Fully offline — ideal for working with sensitive data in enterprise and regulated environments.
-  > Code export — every step can be saved as clean Python code that is compatible with Jupyter Notebooks.
-  > AutoML included — MLJAR-supervised provides fast model training, a leaderboard, model interpretation, and detailed reports.
-  > Simple desktop installation — no manual setup of packages or environments.
-  > Ready to use code recipes — called Piece of code, sorted by categories.
-  > Works with all data types.
-  > Complete transparency — you always see what’s happening under the hood.
-  > Limitations:
-  > There are no built-in cloud collaboration features (but you can share the notebook as a web app or dashboard with Mercury).
-  > Desktop-only — not accessible from a browser.
-  >
-  > ***
-  >
-  > KNIME
-  >
-  > - Visual workflow builder — powerful drag-and-drop interface for building complex data pipelines.
-  > - Extensive library of nodes — covers data prep, ML, NLP, database access, Python, R, Spark.
-  > - Offline mode — works entirely on local machines.
-  > - Strong integrations — supports external tools, scripting, and enterprise connectors.
-  >   Limitations:
-  > - Can be overwhelming for beginners — lots of configuration steps.
-  > - Limited support for modern ML frameworks like transformers or LLMs.
-  > - High memory usage on large workflows.Basic AI assistance is available via LLM extension (as of KNIME 5.2), but is limited in capabilities compared to native, notebook-integrated agents.
 
 - https://evrim.zone/blog/opinion/vibes_casino
 
@@ -459,9 +378,7 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://blog.julik.nl/2025/07/data-over-time
 
 - this is really interesting, I want to take some notes on bioelectricy: https://archive.ph/WXcSE
-
   - https://www.liebertpub.com/doi/10.1089/bioe.2022.0012
-  - > What does seem to be key is that replication of life requires a structure that can, when ready, dissipate energy, but to grow and repair it also requires a polymer containing the instructions to build new bits, which perhaps suggests a key component of the definition life is that it can rebuild damaged components, enabling it to maintain dissipation over extended periods of time and robustness to adapt to variations in the environment.
 
 - https://epcyber.com/osint-case-studies
 
@@ -472,7 +389,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit?gid=1378107220#gid=1378107220
 
 - https://chromewebstore.google.com/detail/automa/infppggnoaenmfagbfknfkancpbljcca
-
   - TODO: OSIB extension
 
 - https://github.com/neospl0it/osint-bookmark
@@ -504,7 +420,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://dinoki.ai/blog/designing-for-artificial-empathy
 
 - https://www.storyden.org/
-
   - TODO: make a feed for osintbuddy like this, this is a very cool project
 
 - https://stratechery.com/2025/tech-philosophy-and-ai-opportunity/
@@ -828,7 +743,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://airbnb.io/visx/brush
 
 - https://jyn.dev/you-are-in-a-box/
-
   - TODO: WAIT FOR HIS NEXT POST, IM HOOKED!
 
 - https://www.nature.com/articles/d41586-025-01088-x
@@ -890,7 +804,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://www.theregister.com/2025/07/14/software_rot_opinion/
 
 - https://www.digitaldigging.org/p/how-ai-bots-quietly-dismantle-paywalls
-
   - Ill be really mad if archive sites get taken down >:(
 
 - https://tejasbhakta.com/intelligence-organization
@@ -924,11 +837,7 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/
 
 - https://www.davidtinapple.com/illich/1983_silence_commons.html
-  > - "The Computer-Managed Society," sounds an alarm. Clearly you foresee that machines which ape people are tending to encroach on every aspect of people's lives, and that such machines force people to behave like machines. The new electronic devices do indeed have the power to force people to "communicate" with them and with each other on the terms of the machine. Whatever structurally does not fit the logic of machines is effectively filtered from a culture dominated by their use.
-  > -
-  > - The machine-like behaviour of people chained to electronics constitutes a degradation of their well-being and of their dignity which, for most people in the long run, becomes intolerable. Observations of the sickening effect of programmed environments show that people in them become indolent, impotent, narcissistic and apolitical. The political process breaks down, because people cease to be able to govern themselves; they demand to be managed.
-  > - I congratulate Asahi Shimbun on its efforts to foster a new democratic consensus in Japan, by which your more than seven million readers become aware of the need to limit the encroachment of machines on the style of their own behaviour. It is important that precisely Japan initiate such action. Japan is looked upon as the capital of electronics; it would be marvellous if it became for the entire world the model of a new politics of self-limitation in the field of communication, which, in my opinion, is henceforth necessary if a people wants to remain self-governing.
-  > - Electronic management as a political issue can be approached in several ways. I propose, at the beginning of this public consultation, to approach the issue as one of political ecology. Ecology, during the last ten years, has acquired a new meaning. It is still the name for a branch of professional biology, but the term now increasingly serves as the label under which a broad, politically organized general public analyzes and influences technical decisions. I want to focus on the new electronic management devices as a technical change of the human environment which, to be benign, must remain under political (and not exclusively expert) control. I have chosen this focus for my introduction, because I thus continue my conversation with those three Japanese colleagues to whom I owe what I know about your country - Professors Yoshikazu Sakamoto, Joshiro Tamanoi and Jun Ui.
+
 - https://aramzs.xyz/essays/the-internet-is-a-series-of-webs/
 
 - https://en.m.wikipedia.org/wiki/Moravec%27s_paradox
@@ -960,12 +869,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/
 
 - https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai
-
-  > - The Architecture Overview isn't really architecture. It's "what would I want to know if I had amnesia?"
-  > - The Technical Considerations aren't really instructions. They're "what would frustrate me if we had to repeat it?"
-  > - The Workflow Process isn't really process. It's "what patterns emerged that I don't want to lose?"
-  > - The Story Breakdown isn't really planning. It's "how do I make progress when everything resets?"
-  > - Maybe that's all any documentation is. Messages to future confused versions of ourselves.
 
 - https://hakibenita.com/django-foreign-keys
 
@@ -1004,8 +907,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://news.ycombinator.com/item?id=44662542
 
 - https://collectiveactionintech.substack.com/p/the-case-for-sabotage
-
-> - At a time when the AI tools we develop and use are being built on the labor of exploited ghost workers in the Global South, when Google, Microsoft, and Amazon’s contracts with the IDF to provide cloud computing for automated missile- targeting in the genocide of Palestinians in Gaza, when the Department of Homeland Security is scraping social media to abduct students off of the street and detain scientists at the border, our position as workers who build these and similar tools becomes highlighted not by flashlights but floodlights.
 
 - https://workerorganizing.org/who-holds-the-power-in-your-workplace-8924/
 
@@ -1325,7 +1226,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://ishadeed.com/article/anchor-positioning/
 
 - cool css color picker here:
-
   - https://lyra.horse/blog/2025/08/you-dont-need-js/
 
 - https://motherduck.com/blog/json-log-analysis-duckdb-motherduck/
@@ -1339,51 +1239,19 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://istio.io/
 
 - Curated examples using the Actix ecosystem.
-
   - https://github.com/actix/examples
 
 - https://docs.withorbit.com/
 
 - https://www.patreon.com/posts/galaxy-brain-uis-41516298
 
-#### [serious work](https://numinous.productions/ttft/#serious-work)
+---
 
-- > We’ve been disappointed by how unambitious people are in this sense with Jupyter notebooks. They haven’t pushed the medium all that hard; there is no Citizen Kane of Jupyter notebooks. Indeed, we’re barely beyond the Lumière brothers. Examples like Norvig’s notebook are fine work, but seem disappointing when evaluated as leading examples of the medium.
-- > Aspiring to canonicity, one fun project would be to take the most recent IPCC climate assessment report (perhaps starting with a small part), and develop a version which is executable. Instead of a report full of assertions and references, you’d have a live climate model – actually, many interrelated models – for people to explore. If it was good enough, people would teach classes from it; if it was really superb, not only would they teach classes from it, it could perhaps become the creative working environment for many climate scientists.
-- > The understanding would be transferable. Even a user who has understood only a tiny part of the material could begin tinkering, building up an understanding based on play and exploration. It’s common to dismiss such an approach as leading to a toy understanding; we believe, on the contrary, that with well enough designed scaffolding it can lead to a deep understanding. Developed in enough depth, such an environment may even be used to explore novel research ideas. To our knowledge this kind of project has never been seriously pursued. But it’d be fun to try.
-- > Tools for thought are (mostly) public goods, and as a result are undersupplied: That said, there are closely-related models of production which have succeeded (the games industry, Adobe, AutoDesk, Pixar). These models should be studied, emulated where possible, and used as inspiration to find more such models.
-  > -> What practices would lead to tools for thought as transformative as Hindu-Arabic numerals? And in what ways does modern design practice and tech industry product practice fall short? To be successful, you need an insight-through-making loop to be operating at full throttle, combining the best of deep research culture with the best of Silicon Valley product culture.
-- > Take emotion seriously: Historically, work on tools for thought has focused principally on cognition; much of the work has been stuck in Spock-space. But it should take emotion as seriously as the best musicians, movie directors, and video game designers. Mnemonic video is a promising vehicle for such explorations, possibly combining both deep emotional connection with the detailed intellectual mastery the mnemonic medium aspires toward.
-- > Tools for thought must be developed in tandem with deep, original creative work: Much work on tools for thought focuses on toy problems and toy environments. This is useful when prototyping, but to be successful such tools must ultimately be used to do serious, original creative work. That’s a baseline litmus test for whether the tools are genuinely working, or merely telling a good story. Ideally, for any such tool there will be a stream of canonical media expanding the form, and entering the consciousness of other creators.
+- https://www.frontiersin.org/articles/10.3389/fdgth.2020.00003/full.
 
 ---
 
-> Ben Shneiderman, a pioneering human-computer interaction researcher, offers this charming schematic for research project design in The New ABCs of Research. He calls it the “two parents, three children” pattern.
-
-![alt text](./assets/rdabdfouafa.png)
-
-> The challenge is similar to what learning scientists must do in designing educational interventions. In Principles and Methods of Development Research, Jan van den Akker offers a beautiful distillation of what a unit of progress looks like in that field (thanks to Sarah Lim for the pointer):
->
-> > [Educational design] principles are usually heuristic statements of a format such as: “If you want to design intervention X (for the purpose/function Y in context Z), then you are best advised to give that intervention the characteristics A, B, and C (substantive emphasis), and to do that via procedures K, L, and M (procedural emphasis), because of arguments P, Q, and R [(theoretical emphasis)].”
->
-> The key thing it does is to explicitly connect the dots between a grounded theoretical claim, the implied design approach, and the desired outcome. I’m certainly wary of trying to fit all research into some kind of formula like this, but how clarifying it is to have this target painted so sharply! If you’re a researcher and you want to develop some new intervention, you need to design an experiment whose results can generate a statement of this kind.
-
----
-
-When I read your question about people completing “full cycles” of work I have a strong intuition that we should look for the names of institutions or perhaps loose movements rather than individuals. The mix of skills required are too broad even for most polymaths. And if I look at whole "scene" of tools for thought with a focus on people doing 1, 2, and 3, which is a _very_ loose movement, I see just what you point out: a missing component for a working ratchet is the distillation of insights and critical reflection. I suspect this requires more than publication; what's needed is some degree of interpersonal connection and mutual dependence. I see a very slow but productive ratcheting in the Quantified Self community, which unites academic researchers, (a few) clinicians and allied health professionals, and technologists of various types around supporting self-research, with the most active developers focusing their work around their own self-research projects while sharing tools, methods, and critical support. That's the positive example: a scene that jelled. BUT, on the other hand, the resources associated with commercialization of self-tracking remain deeply siloed in consumer tech companies. The potential insights from the hundreds of millions of users of the commercial tools do not feed back very efficiently into the development of high level insights and new theories. In fact, the theoretical material about "behavior change" referenced by these companies is so outdated that I often doubt it carries much real weight in their internal research road map. It's more window dressing than motivating theory. All of that said, I do think the development of Quantified Self and personal science offers an example with features worth imitating. Specifically:
-
-1. articulating a very high level common theoretical and/or cultural position can bring participants into contact based on the promise and challenge of realizing these rather abstract but important goals. (For us: "the right to participate in science" "individual discovery as a meaningful contribution to knowledge even in the absence of generalizability" "personal agency in determining one's own research question and in control of data")
-2. a common protocol/ritual for sharing knowledge (For us: First person point of view, and answering the three "prime questions": what did you do, how did you do it, what did you learn.)
-   These high level agreements and common structures create a scaffold for the different kinds of participants to begin to make their own contributions.
-   As evidence, here's a recent paper that attempts to theorize some self-research practice. It is based on the researchers own surveys, prototypes, and pilots, but it is deeply informed by their engagement with the wider community. It sticks to its lane (at least explicitly) in offering an academic contribution, but the implications will be clear to others "on the scene" wondering how to make their tools more effective: https://www.frontiersin.org/articles/10.3389/fdgth.2020.00003/full.
-
----
-
-Gary Bernhardt / Execute Program seems like a decent example, as does Julia Evans / WizardZines.
-
-Not all of the ideas explored in their work are fully articulated, generalized, and published, so some of it gets lost in tweets. But, ExecuteProgram has an internal representation of the conceptual dependencies between lessons. WizardZines is also not producing strictly generalizable academic insights, but a lot of the practical tools-for-making and how-to-think-about-making are reflected. in the blog, e.g. https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/
-
-Both seem like they have the full cycle going - make tools (for learning, not for thought exactly), publish them, observe their use, distill insights, share.
+- https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/
 
 ---
 
@@ -1398,8 +1266,7 @@ Both seem like they have the full cycle going - make tools (for learning, not fo
 - https://supermemo.guru/wiki/SuperMemo_Guru
 
 - https://museapp.com/
-
-  - https://www.inkandswitch.com/muse/
+- https://www.inkandswitch.com/muse/
 
 - https://worrydream.com/ExplorableExplanations/
 
@@ -1661,7 +1528,6 @@ I started auto archiving all the URLs I visit to the wayback machine today. Hope
 
 - https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata
 
-
 - https://protocolized.summerofprotocols.com/
 - https://paragraph.com/@protocolized/whitehead-watch
 - https://paragraph.com/@protocolized/the-hilbert-program
@@ -1699,11 +1565,9 @@ I started auto archiving all the URLs I visit to the wayback machine today. Hope
 - https://protocolized.summerofprotocols.com/p/reflections-from-memoria
 - https://protocolized.summerofprotocols.com/p/risky-autonomy-vs-walled-gardens
 
-# MUST READ!
+- https://summerofprotocols.com/research
 
-https://summerofprotocols.com/research
-
-https://summerofprotocols.com/
+- https://summerofprotocols.com/
 
 - https://docs.google.com/document/d/111EDpTAN-HJCwqMwQlGHojEA5b2A3Awg333HtJybjJg/edit?tab=t.0#heading=h.87hgge4xuol8
 
@@ -1731,266 +1595,10 @@ https://summerofprotocols.com/
 
 - https://medium.com/@komorama/the-sarumans-and-the-radagasts-6392f889d142
 
-<!--
+- https://opentextbc.ca/socialpsychology/chapter/sources-of-social-knowledge/
 
-https://zelous.vercel.app/ | Zelous
-https://opentextbc.ca/socialpsychology/chapter/sources-of-social-knowledge/ | 2.1 Sources of Social Knowledge – Principles of Social Psychology – 1st International H5P Edition
-https://plato.stanford.edu/entries/epistemology-social/ | Social Epistemology (Stanford Encyclopedia of Philosophy)
-https://exploringyourmind.com/social-knowledge-what-is-it/ | Social Knowledge: What Is It and How Do We Acquire It? - Exploring your mind
-https://www.oxfordreference.com/display/10.1093/oi/authority.20110810105901812 | Social knowledge - Oxford Reference
-https://www.researchgate.net/publication/325022648_An_introduction_to_research_paradigms | (PDF) An introduction to research paradigms
-https://news.ycombinator.com/item?id=38289327 | You don't need a CRDT to build a collaborative experience | Hacker News
-https://old.reddit.com/r/ArtificialInteligence/comments/1odgfys/i_was_once_an_ai_true_believer_now_i_think_the/ | I was once an AI true believer. Now I think the whole thing is rotting from the inside. : ArtificialInteligence
-https://news.ycombinator.com/item?id=45333021 | Why haven't local-first apps become popular? | Hacker News
-https://news.ycombinator.com/item?id=41279691 | Show HN: Grug Notes, a simple take on text notes | Hacker News
-https://news.ycombinator.com/item?id=43277887 | NotaGen: Advancing Musicality in Symbolic Music Gen with LLM Training Paradigms | Hacker News
-https://news.ycombinator.com/item?id=15768123 | Using a logbook to improve your programming | Hacker News
-https://news.ycombinator.com/item?id=40645743 | Show HN: Unforget, the note-taking app I always wanted: offline first, encrypted | Hacker News
-https://news.ycombinator.com/item?id=33049627 | Notes against note-taking systems | Hacker News
-https://notesnook.com/ | Notesnook | Open source & zero knowledge private note taking app
-https://www.cambridge.org/core/books/abs/cambridge-handbook-of-cognition-and-education/notetaking/EAC74A13094CC5DE164795D5C4B486BC | Note-Taking (Chapter 13) - The Cambridge Handbook of Cognition and Education
-https://www.ycombinator.com/companies/knowtex | Knowtex: Making doctors 2x more efficient with AI note-taking & charge capture | Y Combinator
-https://news.ycombinator.com/item?id=37874814 | The cult of Obsidian: Why people are obsessed with the note-taking app | Hacker News
-https://news.ycombinator.com/item?id=19803379 | Next-Paradigm Programming Languages: What Will They Look Like? | Hacker News
-https://news.ycombinator.com/item?id=36394569 | AI: First New UI Paradigm in 60 Years? | Hacker News
-https://news.ycombinator.com/item?id=42512713 | Siyuan: Privacy-first, self-hosted personal knowledge management software | Hacker News
-https://news.ycombinator.com/item?id=37262265 | Note-taking apps are designed for storage, not insight – can AI change that? | Hacker News
-https://medium.com/obsidian-observer/fusing-the-two-most-powerful-note-taking-systems-in-obsidian-331d7c4fb2df | Fusing the Two Most Powerful Note-Taking Systems in Obsidian | by Theo Stowell | Obsidian Observer | Medium
-https://news.ycombinator.com/item?id=38834440 | Ask HN: What do you use for note-taking or as knowledge base? | Hacker News
-https://e-student.org/note-taking-methods/ | The 13 Most Effective Note-Taking Methods - E-Student
-https://news.ycombinator.com/item?id=38730979 | A structured note-taking app for personal use | Hacker News
-https://www.ycombinator.com/companies/heptabase | Heptabase: The visual note-taking tool for learning complex topics. | Y Combinator
-https://news.ycombinator.com/item?id=31645045 | Ask HN: Why are there no good note taking apps | Hacker News
-https://news.ycombinator.com/item?id=41228758 | Ask HN: What note taking app do you use and why? | Hacker News
-https://www.vincela.com/squatnotes/ | SquatNotes
-https://news.ycombinator.com/item?id=32646918 | Note taking software like Joplin but with different UI? | Hacker News
-https://about.ideoi.app/ | IDEOI - Collaborative note-taking & Knowledge Management Workspace
-https://news.ycombinator.com/item?id=27705970 | Ask HN: Do you have a personal wiki? | Hacker News
-https://edna.arslexis.io/#scratch | scratch
-https://github.com/reorproject/reor | reorproject/reor: Private & local AI personal knowledge management app for high entropy people.
-https://www.xda-developers.com/comet-browser-features-switch-chrome/ | 3 Comet browser features that made me switch from Chrome
-https://www.xda-developers.com/powertoys-light-switch-feature/ | PowerToys is getting a new tool I've been wanting in Windows for years now
-https://www.reddit.com/r/ObsidianMD/comments/1bdebye/why_i_take_notes_and_use_obsidian_one_year/ | Why I take notes and use Obsidian (One Year) : r/ObsidianMD
-https://www.androidpolice.com/organizing-notes-with-obsidian/ | I linked my messy notes and built a universe of ideas in Obsidian — it all makes sense now
-https://www.howtogeek.com/three-note-apps-are-better-than-one/ | Three Note Apps Are Better Than One
-https://www.xda-developers.com/obsidian-explained-the-ultimate-tool-for-organizing-your-thoughts/ | Obsidian explained: The ultimate tool for organizing your thoughts
-https://becomeawritertoday.com/obsidian-review/ | Obsidian Review: Is It Worth It? (2025)
-https://www.reddit.com/r/ObsidianMD/comments/js2mfg/anybody_using_obsidian_as_your_all_around_general/ | Anybody using Obsidian as your all around general note taking app? : r/ObsidianMD
-https://news.ycombinator.com/item?id=39027154 | Why I Like Obsidian | Hacker News
-https://news.ycombinator.com/item?id=45633081 | The case for the return of fine-tuning | Hacker News
-https://arxiv.org/abs/2203.02155 | [2203.02155] Training language models to follow instructions with human feedback
-https://en.wikipedia.org/wiki/Imitation_learning | Imitation learning - Wikipedia
-https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand | What did Richard Feynman mean when he said, 'What I cannot create, I do not understand'? - Quora
-https://medium.com/@vishal09vns/sparse-attention-dad17691478c | Demystifying Sparse Attention: A Comprehensive Guide from Scratch | by VISHAL SINGH | Medium
-https://news.mit.edu/2000/brain | MIT researcher finds that part of brain used for hearing can learn to 'see' | MIT News | Massachusetts Institute of Technology
-https://en.wikipedia.org/wiki/Linear_regression | Linear regression - Wikipedia
-https://arxiv.org/abs/2211.15661 | [2211.15661] What learning algorithm is in-context learning? Investigations with linear models
-https://www.pcloadletter.dev/blog/ai-hype-and-productivity/ | AI hype is excessive, but its productivity gains are real
-https://tbarake.substack.com/p/ai-and-the-boundaries-of-order | AI and the boundaries of order - by tones
-https://hcii.cmu.edu/news/stapler-knows-when-you-need-it | This Stapler Knows When You Need It | Human-Computer Interaction Institute
-https://www.jerry.wtf/posts/understanding-relationships/ | Understanding Relationships · Jerry Liu
-https://news.ycombinator.com/from?site=lockbooks.net | Submissions from lockbooks.net | Hacker News
-https://evenzero.in/posts/experiments/ | evenzero > Experiments
-https://news.ycombinator.com/item?id=45640594 | DeepSeek OCR | Hacker News
-https://orrymr.substack.com/p/ogs-log-volume-1 | Og's Log - Volume #1 - Orry’s Substack
-https://welovesota.com/article/surviving-the-reset-a-framework-for-ai-competitive-advantage | Surviving the Reset: A Framework for AI Competitive Advantage — SOTA - AI Innovation Community
-https://www.gdeltproject.org/ | The GDELT Project
-https://news.ycombinator.com/item?id=45642527 | Ask HN: What are some impressive vibe coding projects? | Hacker News
-https://x.com/elonmusk/status/1980206753209082334 | Elon Musk on X: "I don’t trust Signal anymore" / X
-https://www.aivojournal.org/when-giants-ignore-the-shift/ | When Giants Ignore the Shift | AIVO Journal
-https://floss.fund/blog/second-tranche-2025-anniversary/ | The second tranche and anniversary reflection
-https://chriskiehl.com/article/event-sourcing-is-hard | Don't Let the Internet Dupe You, Event Sourcing is Hard - Blogomatano
-https://www.natemeyvis.com/front-end-maximalism/ | Front-end maximalism | Nate Meyvis
-https://github.com/vebgenofficial/vebgen | vebgenofficial/vebgen: 🤖 World's first AST-powered AI development agent | Autonomous Django/Flask builder | Zero-token intelligence | Military-grade sandbox | Made in India 🇮🇳
-https://news.ycombinator.com/item?id=45643763 | Ghost | Hacker News
-https://news.ycombinator.com/item?id=45644225 | After Trying Everything, I Built My Own Focused Productivity Tool | Hacker News
-https://literature-clock.jenevoldsen.com/ | Literature Clock
-https://github.com/CirceStudios/Novelator2.1 | CirceStudios/Novelator2.1: Where code meets Magic!!
-https://github.com/FayZ676/gitscribe | FayZ676/gitscribe
-https://gettingthingsdone.com/2025/05/the-curse-of-the-eternally-urgent/ | The Curse of the Eternally Urgent - Getting Things Done®
-https://github.com/fieryseaturtle-dotcom/My-Mirror-Engine-for-AI | fieryseaturtle-dotcom/My-Mirror-Engine-for-AI: Im Allen Moysey-Groat and i build random stuff and know 102% of the world. im told i need to publish this somehow my mirror engine
-https://news.ycombinator.com/item?id=45645065 | Why and how I rewrote these Obsidian plugins | Hacker News
-https://news.ycombinator.com/item?id=45645093 | Birchdocs, my personal docs site | Hacker News
-https://fleetingswallow.com/winning-small-claims-with-ai/ | Winning Small Claims with AI
-https://so1o.xyz/blog/frugality | Frugal living
-https://reactionwheel.net/2024/10/the-illusion-of-acceleration.html | The Illusion of Acceleration | Reaction Wheel
-https://commoncog.com/much-ado-about-the-ooda-loop/ | Much Ado About The OODA Loop - Commoncog
-https://duckduckgo.com/?t=fpas&q=aleatoric&ia=web | aleatoric at DuckDuckGo
-https://commoncog.com/learning-from-waldrop-complexity/ | What I Learnt From Complexity - Commoncog
-https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing | You Are Insignificant. That's a Good Thing.
-https://ideaspace.ystrickler.com/p/the-internet-is-dying-on-the-outside | The internet is dying on the outside but growing on the inside
-https://substack.com/@thecodetherapy/p-176667869 | Faster and Weaker - Marco Gomez
-https://leaftok.github.io/site/ | LeafTok - App de Leitura com IA | Transforme Livros em Cards Inteligentes
-https://frankchimero.com/blog/2025/beyond-the-machine/ | Frank Chimero · Beyond the Machine
-https://worldsensorium.com/what-if-ai-worked-like-a-forest/ | What if AI worked like a forest? – World Sensorium / Conservancy
-https://resonantcomputing.org/ | Resonant Computing Manifesto
-https://www.law.georgetown.edu/tech-institute/insights/tech-brief-ai-sycophancy-openai-2/ | Tech Brief: AI Sycophancy & OpenAI | Institute for Technology Law & Policy | Georgetown Law
-https://www.ams.org/notices/199701/comm-rota.pdf | Ten Lessons I Wish I Had Been Taught - comm-rota.pdf
-https://www.science.org/doi/10.1126/sciadv.aav5916 | Kids these days: Why the youth of today seem lacking | Science Advances
-https://templetwo.github.io/kuramoto-oscillators/ | Kuramoto Oscillator Visualizations
-https://ref.box/ | Refbox
-https://fossforce.com/2025/10/all-things-open-has-more-in-store-for-2025-including-an-added-measure-of-ai/ | All Things Open Has More in Store for 2025, Including an Added Measure of AI - FOSS Force
-https://www.johndcook.com/blog/2025/10/20/distribution-of-correlation/ | Distribution of correlation
-https://tecunningham.github.io/posts/2025-09-19-transformative-AI-notes.html | Economics and AI | Tom Cunningham – Tom Cunningham
-https://osf.io/preprints/psyarxiv/4wcnb_v1 | OSF | Brain Mechanisms Underlying the Inhibitory Control of Thought
-https://github.com/bertdobbelaere/SorterHunter | bertdobbelaere/SorterHunter: An evolutionary approach to find small and low latency sorting networks
-https://www.sebjenseb.net/p/thoughts-on-everything-i-have-written | Thoughts on everything I have written - by Sebastian Jensen
-https://www.youtube.com/watch?app=desktop&v=_eSAF_qT_FY | GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs - YouTube
-https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything | The Lottery-fication of Everything - by Shreyas Hariharan
-https://netzpolitik.org/2025/verhaltensscanner-im-mannheim-hier-wird-die-ueberwachung-getestet-die-so-viele-staedte-wollen/ | Verhaltensscanner im Mannheim: Hier wird die Überwachung getestet, die so viele Städte wollen
-https://futurism.com/future-society/ai-productivity-research | AI at Work Is Creating Mountains of Slop That Humans Have to Fix, Stanford Research Finds
-https://github.com/Pringled/pyversity | Pringled/pyversity: Fast Diversification for Search & Retrieval
-https://duckduckgo.com/?q=social%20network%20for%20note%20taking&t=fpas&ia=web | social network for note taking at DuckDuckGo
-https://www.namecheap.com/domains/registration/results/?domain=SocialGarden | Namecheap
-https://alternativeto.net/software/hyperdraft/about/ | Hyperdraft: Turn your notes into a website | AlternativeTo
-https://alternativeto.net/software/o-reilly-atlas/about/ | O'reilly Atlas: Produce books for print and digital formats | AlternativeTo
-https://alternativeto.net/software/typewrite/about/ | Typewrite: Real-time collaborative writing | AlternativeTo
-https://alternativeto.net/software/lightpaper/about/ | LightPaper: Simple, beautiful yet powerful text editor for your Mac | AlternativeTo
-https://alternativeto.net/software/hemingway-editor/about/ | Hemingway Editor: Hemingway App makes your writing bold and clear | AlternativeTo
-https://alternativeto.net/software/outline-by-getoutline-com/about/ | Outline: Your team’s knowledge base Team wiki, documentation, meeting notes, playbooks, o | AlternativeTo
-https://alternativeto.net/software/mark-text/about/ | Mark Text: Open-source Markdown editor with real-time preview | AlternativeTo
-https://alternativeto.net/software/typora/about/ | Typora: Cross-platform Markdown editor with live preview | AlternativeTo
-https://alternativeto.net/software/zettlr/about/ | Zettlr: Privacy-focused writing tool with citation support | AlternativeTo
-https://reflect.app/ | Reflect Notes
-https://blog.docgenie.co.uk/blog/best-note-sharing-app | Top 7 Best Note-Sharing Apps for Seamless Collaboration
-https://www.nts.social/ | NTS – Social Note Taking & Knowledge Sharing
-https://forum.obsidian.md/t/make-vault-act-like-wiki-social-network-profile-pages-with-filtered-search-and-gallery/96106 | Make vault act like wiki/social network profile pages, with filtered search and gallery - Developers: Plugin & API - Obsidian Forum
-https://www.producthunt.com/products/reflect-notes | Reflect: Fast networked note-taking | Product Hunt
-https://noduslabs.com/featured/obsidian-3d-graph-view-plugin-with-network-science-insights/ | Obsidian 3D Graph View Plugin with Network Science Insights – Nodus Labs: Ecological Thinking through Network Analysis
-https://news.ycombinator.com/?p=3 | Hacker News
-https://news.ycombinator.com/item?id=45556374 | Solving the Wrong Problem | Hacker News
-https://news.ycombinator.com/item?id=45556772 | Quantum dynamics on your laptop? New technique moves us closer | Hacker News
-https://news.ycombinator.com/item?id=45656916 | AI is making us work more | Hacker News
-https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/ | Apple alerts exploit developer that his iPhone was targeted with government spyware  | TechCrunch
-https://duckduckgo.com/?t=fpas&q=universe%27s%20fundamental%20greedy%20optimization%20algorithm | universe's fundamental greedy optimization algorithm at DuckDuckGo
-https://acceleratedresolutiontherapy.com/ | Accelerated Resolution Therapy - Treating Trauma
-https://duckduckgo.com/?t=fpas&q=accelerated%20resolution%20therapy%20filetype%3Apdf&ia=web | accelerated resolution therapy filetype:pdf at DuckDuckGo
-https://acceleratedresolutiontherapy.com/wp-content/uploads/2023/01/17.-Kip-ART-TBI-and-SOF-Analyses-Couns-Psych-Res-2019.pdf | The emergence of accelerated resolution therapy for treatment of post‐traumatic stress disorder: A review and new subgroup analyses - 17.-Kip-ART-TBI-and-SOF-Analyses-Couns-Psych-Res-2019.pdf
-https://duckduckgo.com/?t=fpas&q=allostatis&ia=web | allostatis at DuckDuckGo
-https://contraptions.venkateshrao.com/p/the-poverty-of-abundance | The Poverty of Abundance - by Venkatesh Rao - Contraptions
-https://duckduckgo.com/?t=fpas&q=building%20at%20scale%20has%20historically%20meant%20bulldozing%20the%20weak.%20&ia=web | building at scale has historically meant bulldozing the weak. at DuckDuckGo
-https://github.com/osintbuddy | OSINTBuddy
-https://www.skcript.com/blog/how-to-execute-python-scripts-in-electron-and-nodejs | How to Execute Python Scripts in Electron and NodeJS | Skcript
-https://summerofprotocols.com/research/dangerous-protocols | Dangerous Protocols - Summer of Protocols
-https://medium.com/@metapgmr/hex-a-no-framework-approach-to-building-modern-web-apps-e43f74190b9c | HEX: a No Framework Approach to Building Modern Web Apps | by Jean-Jacques Dubray | Medium
-https://github.com/jdubray/sam-samples/tree/master/todomvc-app | sam-samples/todomvc-app at master · jdubray/sam-samples
-https://www.npmjs.com/package/sam-pattern | sam-pattern - npm
-https://chatgpt.com/c/68f6af39-9314-8321-9f30-8bf0d145fc62 | High performance web apps
-https://corex-ui.com/components/floating-panel | Floating Panel
-https://github.com/p-it-nl/vanilla-kit | p-it-nl/vanilla-kit: vanilla javascript kit
-https://frameworkless.js.org/ | Frameworkless JS
-https://www.goodreads.com/book/show/45288137-frameworkless-front-end-development | Frameworkless Front-End Development: Do You Control Your Dependencies Or Are They Controlling You? by Francesco Strazzullo | Goodreads
-https://developer.mozilla.org/en-US/docs/Web | Web technology for developers | MDN
-https://nitter.net/ | nitter
-https://noframework.org/ | noframework
-https://www.codeneur.com/building-a-javascript-app-without-frameworks/ | Building a JavaScript App Without Frameworks - Career Guidance by Experts
-https://readmedium.com/building-a-modern-web-app-without-frameworks-classes-components-inheritance-1bfd314fc582 | Build a Modern Web App Without Frameworks — Classes, Components, & Inheritance
-https://github.com/syntaxfm/local-first | syntaxfm/local-first
-https://lofi.so/ | Local-First Software
-http://vanilla-js.com/ | Vanilla JS
-https://atproto.com/guides/faq | FAQ - AT Protocol
-https://blog.erlend.sh/ | Open Indie
-https://news.ycombinator.com/newest?next=45679607&n=721 | New Links | Hacker News
-https://news.ycombinator.com/item?id=45679556 | U.S. mulls software-linked export curbs on China: 'Everything is on the table' | Hacker News
-https://news.ycombinator.com/item?id=45679558 | Female spies are waging 'sex warfare' to steal Silicon Valley secrets | Hacker News
-https://rednafi.com/go/test-state-not-interactions/ | Test state, not interactions | Redowan's Reflections
-https://aartaka.me/advanc-ed.html | Advanced Self-Aware ed(1)
-https://www.bloodinthemachine.com/p/how-to-win-followers-and-influence | How to win followers and influence people (to subscribe to your newsletter)
-https://spectrum.ieee.org/agentic-ai-security | Agentic AI Security: Hidden Data Trails Exposed - IEEE Spectrum
-https://news.ycombinator.com/item?id=45680033 | AI Agents Leave Behind a Hidden Data Trail | Hacker News
-https://neurofrontiers.blog/echoes-of-memory-a-conversation-beyond-the-lab/ | Echoes of memory: A conversation beyond the lab - Neurofrontiers
-https://punchbowl.news/archive/102325-am/ | 10/23/25 ☀️ AM: - Punchbowl News
-https://arxiv.org/abs/2510.19804 | [2510.19804] Forbidden Sidon subsets of perfect difference sets, featuring a human-assisted proof
-https://cacm.acm.org/opinion/reinventing-ai-is-it-the-time-for-a-new-paradigm/ | Reinventing AI: Is It the Time for a New Paradigm? – Communications of the ACM
-https://fly.io/blog/corrosion/ | Corrosion · The Fly Blog
-https://cgamedev.substack.com/p/the-hidden-cost-of-software-libraries | The Hidden Cost of Software Libraries - by dechichi
-https://github.com/C4illin/ConvertX | C4illin/ConvertX: 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-https://www.conspicuouscognition.com/p/is-social-media-destroying-democracyor | Is Social Media Destroying Democracy—Or Giving It To Us Good And Hard?
-https://news.ycombinator.com/item?id=45680900 | Please, stop with the AI generated images | Hacker News
-https://www.oranlooney.com/post/em-dash/ | A Modest Definition of Human Consciousness - OranLooney.com
-https://featurevote.app/ | Feature Request Software to Prioritize What Matters - Featurevote
-https://www.sherwoodforestzinelibrary.org/virtual-zine-library-recently-added | Virtual Zine Library | sherwoodforest
-https://secondvoice.substack.com/p/what-would-ai-architect | What Would AI Architect? - by Second Voice and Bobby George
-https://github.com/RunaCapital/ROSS-Index | RunaCapital/ROSS-Index: Datasets for the Runa Open Source Startup (ROSS) Index—quarterly top-20 trending open-source startups ranked by GitHub star growth.
-https://news.ycombinator.com/item?id=45681326 | Casey Muratori: I can always tell a good programmer in an interview | Hacker News
-https://muratbuffalo.blogspot.com/2025/10/barbarians-at-gate-how-ai-is-upending.html?m=1 | Barbarians at the Gate: How AI is Upending Systems Research
-https://news.ycombinator.com/item?id=45681478 | Show HN: Lhdns – A Ledger-Based, Privacy-Preserving Decentralized Naming System | Hacker News
-https://mbleigh.dev/posts/context-engineering-with-links/ | Context engineering is sleeping on the humble hyperlink • mbleigh.dev
-https://csmeyer.substack.com/p/code-doesnt-happen-to-you | Code Doesn't Happen to You - by Charlie Meyer
-https://samuelberthe.substack.com/p/create-awesome-illustrations-for | 🧑‍🎨 Create awesome illustrations for your GitHub project ✨✨✨
-https://live.rbg.tum.de/w/rms/62370 | TUM-Live | 404
-https://www.robinsloan.com/lab/stakes/ | Not found
-https://www.nimo.space/ | Nimo - A new home for your AI work
-https://block.xyz/builder-fellowship | Block - Builder Fellowship
-https://vhbelvadi.com/analogies-argument | V.H. Belvadi — The death of an argument • (Venkatram Harish Belvadi)
-https://nvlabs.github.io/parrot/index.html | Parrot documentation
-https://manidoraisamy.com/reasoning-not-ai.html | Reasoning Is Not Model Improvement
-https://www.theintrinsicperspective.com/p/i-figured-out-how-to-engineer-emergence | I Figured Out How to Engineer Emergence - by Erik Hoel
-https://aeon.co/essays/medicine-is-uncertain-embracing-that-makes-doctors-better | Medicine is uncertain: embracing that makes doctors better | Aeon Essays
-https://medium.com/mentally-mosaic/talent-as-a-system-17ac05b8950a | Talent Is a Loop, Not a Gift. How to Build It When You Think You Lack… | by Jarek Orzel | Mentally Mosaic | Oct, 2025 | Medium
-https://bigthink.com/starts-with-a-bang/5-truths-dark-matter/ | 5 undeniable, truthful facts about dark matter - Big Think
-https://flower.codes/2025/10/23/onion-mirror.html | Spinning up an Onion Mirror is Stupid Easy | flower.codes
-https://www.figma.com/blog/visibility-at-scale-how-figma-detects-sensitive-data-exposure/ | Visibility at Scale: How Figma Detects Sensitive Data Exposure | Figma Blog
-https://journl.xyz/ | Problem loading page
-https://www.nature.com/articles/s41586-025-09761-x | Discovering state-of-the-art reinforcement learning algorithms | Nature
-https://corinwagen.github.io/public/blog/20251021_seven_thoughts_on_ai_scientists.html | Seven Thoughts on "AI Scientists"
-https://olshansky.substack.com/p/intelligence-is-not-intuition | Intelligence is not intuition - by Daniel Olshansky
-https://www.panaceaindex.com/ | Supplement Explorer
-https://www.chalmers.se/en/current/news/k-minimal-pixels-achieve-the-highest-possible-resolution-visible-to-the-human-eye/ | Minimal pixels achieve the highest possible resolution visible to the human eye
-https://cacm.acm.org/federal-funding-of-academic-research/rediscovering-reinforcement-learning/ | Rediscovering Reinforcement Learning – Communications of the ACM
-https://jaseg.de/blog/paper-sampling-mesh-monitor/ | New paper: Monitoring Tamper-Sensing Meshes Using Low-Cost, Embedded Time-Domain Reflectometry | Home
-https://ishadeed.com/article/modern-css-section-layout/ | Solved By Modern CSS: Section Layout
-https://www.kentik.com/go/ebook/something-vile-this-way-flows/ | Something Vile This Way Flows | A Kentik network horror story
-https://arxiv.org/abs/2508.08319 | [2508.08319] Ergodicity detection algorithms: Scaling of ergodicity in random symbolic dynamics
-https://hazelweakly.me/blog/scaling-innovation-building-ecosystems/ | Scaling Innovation: Building Ecosystems | Hazel Weakly
-https://rebeccadai.substack.com/p/building-personal-intelligence-differently | Building personal intelligence, differently
-https://wlockett.medium.com/ai-pullback-has-officially-started-fb6dfa5e4128 | AI Pullback Has Officially Started | by Will Lockett | Oct, 2025 | Medium
-https://news.ycombinator.com/item?id=45685098 | Ask HN: What's your favorite non-tech/not-quite-tech blog? | Hacker News
-https://ludic.mataroa.blog/blog/i-am-out-of-data-hell/ | I Am Out Of Data Hell — Ludicity
-https://www.goto10retro.com/p/public-domain-software-libraries | Public Domain Software Libraries - by Paul Lefebvre
-https://besiegefield.github.io/ | BesiegeField
-https://gbragafibra.github.io/2025/10/23/collatz_automata.html | Collatz Automata
-https://analoghobbyist.bearblog.dev/a-return-to-discovery/ | A Return to Discovery | The Analog Hobbyist
-https://websitelaunches.com/blog/post.php?slug=september-2025-website-launch-data | We Tracked Every Website That Launched in September 2025. The Data is Wild. - Website Launches Blog
-https://www.clintmcmahon.com/Blog/marketing-feels-like-hell-for-developers | Marketing Feels Like Hell for Developers | Clint McMahon
-https://www.science.org/content/blog-post/tunnel-away | Tunnel Away | Science | AAAS
-https://www.haranrk.com/posts/golinks/ | Local golinks | Haran Rajkumar
-https://news.ycombinator.com/item?id=45686707 | Hacker News
-https://www.henrikkarlsson.xyz/p/wordless-thought | When is better to think without words? - by Henrik Karlsson
-https://news.ycombinator.com/item?id=45661112 | Hacker News
-https://news.ycombinator.com/item?id=45676036 | Hacker News
-https://news.ycombinator.com/item?id=45588752 | Hacker News
-https://news.ycombinator.com/item?id=45670516 | Hacker News
-https://news.ycombinator.com/item?id=45599864 | Hacker News
-https://news.ycombinator.com/item?id=45683224 | Hacker News
-https://news.ycombinator.com/item?id=45683863 | How do we stop AI-generated 'poverty porn' fake images? | Hacker News
-https://news.ycombinator.com/item?id=45668264 | The security paradox of local LLMs | Hacker News
-https://news.ycombinator.com/item?id=45669142 | Linux Capabilities Revisited | Hacker News
-https://news.ycombinator.com/item?id=45670052 | Scripts I wrote that I use all the time | Hacker News
-https://news.ycombinator.com/item?id=45680937 | Hacker News
-https://news.ycombinator.com/item?id=45684934 | Hacker News
-https://news.ycombinator.com/item?id=45678511 | Hacker News
-https://news.ycombinator.com/item?id=45680695 | Hacker News
-https://news.ycombinator.com/item?id=45606224 | Hacker News
-https://news.ycombinator.com/item?id=45683897 | Hacker News
-https://news.ycombinator.com/item?id=45683153 | Hacker News
-
--->
-
-https://www.k-a.in/mHC.html
-https://link.springer.com/article/10.1007/s12136-024-00584-5
-https://biologyinsights.com/significant-gene-drug-interaction-impact-on-patient-care/
-https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00094/117074/The-Hard-Problem-of-Consciousness-Arises-from
-
-<!-- 
-https://academic.oup.com/schizophreniabulletin/article-abstract/33/6/1298/1901847
-https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=schizophrenia%20modafinil
-https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008661.pub2/full
-https://link.springer.com/article/10.1007/s00213-011-2472-4
-https://www.sciencedirect.com/science/article/abs/pii/S0028390812003474
-https://www.nature.com/articles/1300457
-https://www.sciencedirect.com/science/article/abs/pii/S0006899310025448
-
--->
-
-https://longform.asmartbear.com/predict-the-future/
+- https://www.k-a.in/mHC.html
+- https://link.springer.com/article/10.1007/s12136-024-00584-5
+- https://biologyinsights.com/significant-gene-drug-interaction-impact-on-patient-care/
+- https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00094/117074/The-Hard-Problem-of-Consciousness-Arises-from
+- https://longform.asmartbear.com/predict-the-future/
