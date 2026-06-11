@@ -10,6 +10,10 @@ date: 2025-06-28
 
 At a surface level these piqued my interest, I'm storing them here to read later:
 
+
+- https://worrydream.com/refs/
+- https://contraptions.venkateshrao.com/p/a-camera-not-an-engine
+- https://contraptions.venkateshrao.com/p/mediocre-computing
 - https://blog.zgp.org
 - NATURAL LANGUAGE, SEMANTIC ANALYSIS AND INTERACTIVE FICTION: https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf
 
