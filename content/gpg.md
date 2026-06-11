@@ -1,0 +1,24 @@
+---
+title: GPG
+draft: false
+publish: true
+date: 2024-02-04
+---
+
+If you need to get in touch with me privately feel free to use this PGP key:
+
+```pgp
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaGXYkhYJKwYBBAHaRw8BAQdAsXqVtwijy92UU0mVTcM7d6B0tYuziQ44fZ4t
+/vg1sgq0HmplcmxlbmRkcyA8b3NzQG9zaW50YnVkZHkuY29tPoiWBBMWCgA+FiEE
+Mkuk5iyhYeNF+9JSt9t9tHjdODIFAmhl2JICGwMFCQWjmoAFCwkIBwIGFQoJCAsC
+BBYCAwECHgECF4AACgkQt9t9tHjdODI2vwEAwDeoE2cMPU4cuwHuN4cow78oGpWL
+4o1040iQbvZQa8oBAOnIJ71lbM8M4/YUX0wbqh74ZCzBmqKNQW04oHbSmEQEuDgE
+aGXYkhIKKwYBBAGXVQEFAQEHQPvFSwh8uMBEuiF2cxnn67rTpSGEsg8s8aLOsrjd
+VIQKAwEIB4h+BBgWCgAmFiEEMkuk5iyhYeNF+9JSt9t9tHjdODIFAmhl2JICGwwF
+CQWjmoAACgkQt9t9tHjdODIZvAD/UyN3XBgQUyu3gEZhek3BJ6aSS7qvExy8raCr
+ZOSqvm0BALVvPa6SnZUTH+h7Z2zYeEtaiP9aPBVEVYRzPVPDxkkJ
+=DKVW
+-----END PGP PUBLIC KEY BLOCK-----
+```
