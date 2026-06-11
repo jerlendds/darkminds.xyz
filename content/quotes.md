@@ -4,6 +4,7 @@ draft: false
 publish: true
 date: 2024-03-03
 ---
+
 | a   | b   |     |
 | --- | --- | --- |
 |     |     |     |
@@ -402,25 +403,26 @@ date: 2024-03-03
 
 --- -->
 
-<!--
-#### [__]()
+#### [_Dream_](https://www.matthewsiu.com/Interfaces)
 
+> This reflects the uneven propagation of new insights through the fabric of society: if it's new to you, it's still interesting.
 >
+> Life on the frontier is hard.” “As computers tear down more and more old barriers, the choice to continue to work in any particular medium is the choice to work within the “format of the medium”.
 
---- -->
-<!--
+---
+
 #### [_Marie Curie_]()
 
 > Nothing in life is to be feared, it is only to be understood.
 
---- -->
-<!--
+---
+
 #### [_Isaac Asimov_]()
 
 > The saddest aspect of life right now is that science gathers knowledge faster than
-society gathers wisdom.
+> society gathers wisdom.
 
---- -->
+---
 
 #### [_Leeches_](https://www.jstor.org/stable/23359293)
 
