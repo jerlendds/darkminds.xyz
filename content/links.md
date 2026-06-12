@@ -9,6 +9,28 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 ## Link dump
 
+
+- https://edwardtufte.github.io/tufte-css/
+- https://practicaltypography.com/
+- https://harmful.cat-v.org/
+- https://blog.maximeheckel.com/posts/the-study-of-shaders-with-react-three-fiber/
+- https://www.lesswrong.com/posts/bJ2haLkcGeLtTWaD5/welcome-to-lesswrong
+- https://zanlib.dev/blog/number-inputs-in-react/
+- https://tailscale.com/blog
+- https://arun.is/blog/
+- https://mnmm.xyz/
+- https://bearblog.dev/discover/
+- https://languagelog.ldc.upenn.edu/nll/
+- https://www.worksinprogress.news/
+- https://dfns.dyalog.com/n_sudoku.htm
+- https://matklad.github.io/
+- https://ciechanow.ski/
+- https://ericfortis.com/blog/freebsd-jails-network-setup
+- https://sites.gatech.edu/alexburgin/on-self-respect-by-joan-didion/
+- https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html
+- https://www.datagubbe.se/short/
+- https://blog.griffens.net/blog/trying-to-fix-complicated-problems/
+- https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/
 - https://thecodelesscode.com/case/43
 - https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/
 - https://www.matthewsiu.com
