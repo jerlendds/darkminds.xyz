@@ -379,17 +379,17 @@ date: 2024-03-03
 
 --- -->
 <!--
-#### [__]()
+#### [_Charles Eames_](https://arun.is/blog/creative-power-constraints/)
 
->
-
---- -->
-<!--
-#### [__]()
-
->
+> I don’t remember ever being forced to accept compromises, but I have willingly accepted constraints.
 
 --- -->
+
+#### [_AI creativity and discovery_](https://news.ycombinator.com/item?id=48470581)
+
+> The generate-test-selectively refine loop is the core modality of scientific work.
+
+---
 
 #### [_Possibly controversial perspective_](https://x.com/RichardSSutton/status/2061216087744946656)
 

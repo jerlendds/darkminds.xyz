@@ -10,6 +10,23 @@ At a surface level these piqued my interest, I'm storing them here to read later
 ## Link dump
 
 - https://news.ycombinator.com/item?id=48470581
+- https://www.omniglot.com/
+- https://news.ycombinator.com/item?id=48485958
+- https://news.ycombinator.com/item?id=48476466
+- https://www.construction-physics.com/p/biological-evolution-and-information
+- https://news.ycombinator.com/item?id=48434240
+- https://news.ycombinator.com/item?id=48489151
+- https://news.ycombinator.com/item?id=48498283
+- https://news.ycombinator.com/item?id=48477208
+- https://arun.is/blog/creative-power-constraints/
+- https://arun.is/blog/aesthetics-over-upgrades/
+- https://arun.is/blog/savannah/
+- https://arun.is/blog/leica-font/
+- https://arun.is/blog/healthy-computing/
+- https://arun.is/blog/make-something-wonderful/
+- https://files.catbox.moe/mrh1ll.jpg
+- https://www.rntz.net/post/my-thesis.html
+- https://news.ycombinator.com/item?id=48470581
 - https://x.com/RichardSSutton/status/2061216087744946656
 - https://edwardtufte.github.io/tufte-css/
 - https://practicaltypography.com/
