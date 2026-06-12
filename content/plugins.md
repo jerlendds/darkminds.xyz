@@ -1,10 +1,54 @@
 ---
-title: Quartz plugins
+title: Quartz Plugins
 ---
 
 An overview of the custom plugins I've built for my personal site.
 
+## Peek Quotes
+
+https://github.com/jerlendds/quartz-peek-quote
+
+```peek
+peekQuote:
+  maxPeekAbove: 340
+  maxPeekBelow: 200
+  snapThreshold: 200
+  text: |
+    1
+
+    2
+
+    3
+
+    4
+
+    5
+
+    6
+
+    7
+
+    8
+
+    10
+
+    blah blah blah....
+    The witness began with the weather.
+
+    The selected sentence stayed in the transcript because it changed how the rest of the interview should be read.
+
+    Only later did the surrounding details make the statement feel complete.
+    
+    Blah
+    b;lah
+    blah...
+  highlight: "The selected sentence stayed in the transcript because it changed"
+  highlightColor: "#faf61148"
+```
+
 ## Chat Bubbles
+
+https://github.com/jerlendds/quartz-chat-bubbles
 
 ```chat {.left .muted from="ChatGPT 5.5" time="9:15"}
 Can you review this?

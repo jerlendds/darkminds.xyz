@@ -199,6 +199,12 @@
       "commit": "c91cffe7874f60df4ef1ef3c719169be34025285",
       "installedAt": "2026-06-11T15:54:14.447Z"
     },
+    "quartz-peek-quote": {
+      "source": "github:jerlendds/quartz-peek-quote",
+      "resolved": "https://github.com/jerlendds/quartz-peek-quote.git",
+      "commit": "851c87769d5b04c6b8dcfead4f11378522cf4ddc",
+      "installedAt": "2026-06-12T00:19:59.238Z"
+    },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
       "resolved": "https://github.com/quartz-community/reader-mode.git",

@@ -20,13 +20,13 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "rgba(255, 255, 255, 0.82)"
+        light: rgba(255, 255, 255, 0.82)
         lightgray: "#e5e5e5"
         gray: "#b8b8b8"
         darkgray: "#3B3A3A"
         dark: "#06070b"
         secondary: "#008066"
-        tertiary: "rgba(00, 80, 66, 0.9)"
+        tertiary: rgba(00, 80, 66, 0.9)
         highlight: rgba(143, 159, 169, 0.08)
         textHighlight: "#fff23688"
       darkMode:
@@ -34,10 +34,10 @@ configuration:
         lightgray: "#141e22"
         gray: "#6B6B6B"
         darkgray: "#d4d4d4"
-        dark: "rgba(255, 255, 255, 0.82)"
+        dark: rgba(255, 255, 255, 0.82)
         secondary: "#008066"
-        tertiary: "rgba(15, 211, 146, 0.7)"
-        highlight: "rgba(25, 29, 29, 0.59)"
+        tertiary: rgba(15, 211, 146, 0.7)
+        highlight: rgba(25, 29, 29, 0.59)
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
@@ -282,6 +282,14 @@ plugins:
       collapseLabel: Collapse conversation
       enableTranscriptSyntax: true
       enableDirectiveSyntax: true
+    order: 50
+  - source: github:jerlendds/quartz-peek-quote
+    enabled: true
+    options:
+      maxPeekAbove: 320
+      maxPeekBelow: 360
+      snapThreshold: 80
+      highlightColor: "#fff200"
     order: 50
 layout:
   groups:
