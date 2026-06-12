@@ -9,7 +9,8 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 ## Link dump
 
-
+- https://news.ycombinator.com/item?id=48470581
+- https://x.com/RichardSSutton/status/2061216087744946656
 - https://edwardtufte.github.io/tufte-css/
 - https://practicaltypography.com/
 - https://harmful.cat-v.org/

@@ -390,12 +390,12 @@ date: 2024-03-03
 >
 
 --- -->
-<!--
-#### [__]()
 
->
+#### [_Possibly controversial perspective_](https://x.com/RichardSSutton/status/2061216087744946656)
 
---- -->
+> This work is both novel and good. Unfortunately, the parts that are good are not novel, and the parts that are novel are not good.
+
+---
 
 #### [_The Normalization of Deviance in AI_](https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/)
 
