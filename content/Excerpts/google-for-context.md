@@ -157,5 +157,12 @@ so embrace the discomfort and invent.
 - https://www.dubberly.com/articles/cybernetics-and-design.html
 - https://wordnet.princeton.edu/
 - https://www.system.com/
+- https://web.archive.org/web/20220612023435/https://www.researchgate.net/project/TheoryMaps
+- https://www.dev4x.com/blog/2019/6/how-to-build-a-learning-map
+- https://apps.apple.com/us/app/wikiweb/id499345601
+- https://x.com/know___edge
+- https://x.com/SeroLearn
+- https://www.matthewsiu.com/assets/prototypes/google%20maps.jpg
+
 
 
