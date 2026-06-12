@@ -9,7 +9,8 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 ## Link dump
 
--
+- https://thecodelesscode.com/case/43
+- https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/
 - https://www.matthewsiu.com
 - https://worrydream.com/refs/
 - https://contraptions.venkateshrao.com/p/a-camera-not-an-engine

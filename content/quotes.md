@@ -396,13 +396,12 @@ date: 2024-03-03
 >
 
 --- -->
-<!--
-#### [__]()
 
->
+#### [_The Normalization of Deviance in AI_](https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/)
 
+> Despite data showing erosion in colder temperatures, the deviation from safety standards was repeatedly rationalized because previous flights had succeeded. The absence of disaster was mistaken for the presence of safety.
 
---- -->
+---
 
 #### [_Dream_](https://www.matthewsiu.com/Interfaces)
 
