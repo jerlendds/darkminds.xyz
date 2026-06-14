@@ -372,18 +372,18 @@ date: 2024-03-03
 >
 
 --- -->
-<!--
-#### [__]()
 
->
+#### [_mugtree_](https://mugtree.com/)
 
---- -->
-<!--
+> pray u don’t have to do frontend backend devops cloud infra mobile dev embedded ai research physics training user experience analytics
+
+---
+
 #### [_Charles Eames_](https://arun.is/blog/creative-power-constraints/)
 
 > I don’t remember ever being forced to accept compromises, but I have willingly accepted constraints.
 
---- -->
+---
 
 #### [_AI creativity and discovery_](https://news.ycombinator.com/item?id=48470581)
 

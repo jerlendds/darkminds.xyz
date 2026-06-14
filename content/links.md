@@ -9,6 +9,10 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 ## Link dump
 
+---
+
+### 2026
+
 - https://news.ycombinator.com/item?id=48470581
 - https://www.omniglot.com/
 - https://news.ycombinator.com/item?id=48485958
@@ -56,16 +60,15 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://contraptions.venkateshrao.com/p/a-camera-not-an-engine
 - https://contraptions.venkateshrao.com/p/mediocre-computing
 - https://blog.zgp.org
-- NATURAL LANGUAGE, SEMANTIC ANALYSIS AND INTERACTIVE FICTION: https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf
-
-- Formality Considered Harmful: Experiences, Emerging Themes, and Directions on the Use of Formal Representations in Interactive Systems: https://link.springer.com/article/10.1023/A:1008716330212
-
-- Ossa: Towards the Next Generation Web: https://jamesparker.me/blog/post/2025/08/04/ossa-towards-the-next-generation-web
-
+- https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf
+- https://link.springer.com/article/10.1023/A:1008716330212
+- https://jamesparker.me/blog/post/2025/08/04/ossa-towards-the-next-generation-web
 - http://newforestcentre.info/uploads/7/5/7/2/7572906/koestler_the_ghost_in_the_machine.pdf
 - https://en.wikipedia.org/wiki/The_Ghost_in_the_Machine
 
 ---
+
+### 2025
 
 - https://en.wikipedia.org/wiki/Biosemiotics
 
@@ -86,7 +89,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://untested.sonnet.io/notes/an-everything-canvas/
 
 - https://sonnet.io/posts/hi
-  - I intend to reach out to this person after I move, I like their writing a lot :)
 
 - https://web.archive.org/web/20211208055926/https://xeny.net/Muddle%20Your%20Way%20To%20Success
 
@@ -253,7 +255,7 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://news.ycombinator.com/item?id=44498133
   - https://alvarotrigo.com/blog/css-text-animations/
 
-- another cool-looking product I want to check out: https://www.secoda.co/blog/visualize-data-relationships-erds-secoda
+- https://www.secoda.co/blog/visualize-data-relationships-erds-secoda
 
 - https://www.libib.com/
 
@@ -287,9 +289,8 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://devdoc.net/web/developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Developing_WebExtensions_for_Firefox_for_Android.html - https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/
 
 - https://mnvr.in/infinity
-  - Infinity is not a big number
 
-- https://www.phoronix.com/news/Chromium-Skia-Graphite - Google Developing Skia "Graphite" For Faster Chrome: Multi-Threaded + Modern Graphics APIs
+- https://www.phoronix.com/news/Chromium-Skia-Graphite
 
 - https://www.lexology.com/library/detail.aspx?g=bbef1939-2af0-465a-8b8f-c1ff3ebe9118
 
@@ -336,7 +337,7 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://rdventurestudio.com/
 
-- https://dl.acm.org/doi/10.1145/3746174 - When Is WebAssembly Going to Get DOM Support?: Or, how I learned to stop worrying and love glue code
+- https://dl.acm.org/doi/10.1145/3746174
 
 - https://www.recursivesciences.org/
 - https://symbrec.org/
@@ -346,7 +347,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://www.clearerthinking.org/post/when-two-things-seem-linked-but-aren-t-understanding-different-types-of-correlations
 
 - https://github.com/0x676e67/rnet
-  - TODO: Add to OSIB
 
 - https://rodyne.com/?p=2911
 
@@ -408,7 +408,7 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://jfmengels.net/essential-and-accidental-configuration/
 
-- https://medium.com/@plonska.ola_24342/no-code-tools-for-data-science-in-2025-607d41a3f610 - I want to make parts of making OSIB plugins no-code/low-code, maybe there's some ideas I can take from here...
+- https://medium.com/@plonska.ola_24342/no-code-tools-for-data-science-in-2025-607d41a3f610
 
 - https://evrim.zone/blog/opinion/vibes_casino
 
@@ -418,8 +418,8 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://blog.julik.nl/2025/07/data-over-time
 
-- this is really interesting, I want to take some notes on bioelectricy: https://archive.ph/WXcSE
-  - https://www.liebertpub.com/doi/10.1089/bioe.2022.0012
+- https://archive.ph/WXcSE
+- https://www.liebertpub.com/doi/10.1089/bioe.2022.0012
 
 - https://epcyber.com/osint-case-studies
 
@@ -461,7 +461,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://dinoki.ai/blog/designing-for-artificial-empathy
 
 - https://www.storyden.org/
-  - TODO: make a feed for osintbuddy like this, this is a very cool project
 
 - https://stratechery.com/2025/tech-philosophy-and-ai-opportunity/
 
@@ -784,7 +783,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://airbnb.io/visx/brush
 
 - https://jyn.dev/you-are-in-a-box/
-  - TODO: WAIT FOR HIS NEXT POST, IM HOOKED!
 
 - https://www.nature.com/articles/d41586-025-01088-x
 
@@ -845,7 +843,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 - https://www.theregister.com/2025/07/14/software_rot_opinion/
 
 - https://www.digitaldigging.org/p/how-ai-bots-quietly-dismantle-paywalls
-  - Ill be really mad if archive sites get taken down >:(
 
 - https://tejasbhakta.com/intelligence-organization
 
@@ -1113,7 +1110,8 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://duckduckgo.com/?q=feedback+loops+AND+web+crawling&t=fpas&ia=web
 
-- https://learn-anything.xyz/ - this is cool, collaborative learning environment, reminds me of https://en.wikipedia.org/wiki/Deschooling_Society
+- https://learn-anything.xyz/
+- https://en.wikipedia.org/wiki/Deschooling_Society
 
 - https://www.recraft.ai/
 
@@ -1204,8 +1202,6 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://pdos.csail.mit.edu/publications/
 
-- ACAF3C260
-
 - https://www.oldmapsonline.org/en/history/regions#position=2.7559/54.36/-101.08
 
 - https://arxiv.org/abs/2506.21797
@@ -1250,7 +1246,7 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 - https://news.ycombinator.com/item?id=10316872
 
-- amazing design, wow: https://neon.com/
+- https://neon.com/
 
 - https://news.ycombinator.com/item?id=38834780 - https://thisisimportant.net/posts/content-as-a-graph/
 
