@@ -14,7 +14,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Zilla Slab Highlight
+      title: Metamorphous
       header: Questrial
       body: Lato
       code: IBM Plex Mono
@@ -35,7 +35,7 @@ configuration:
         gray: "#6B6B6B"
         darkgray: "#d4d4d4"
         dark: rgba(255, 255, 255, 0.82)
-        secondary: "#008066"
+        secondary: "#0aa687"
         tertiary: rgba(15, 211, 146, 0.7)
         highlight: rgba(25, 29, 29, 0.59)
         textHighlight: "#b3aa0288"
@@ -202,7 +202,7 @@ plugins:
       position: beforeBody
       priority: 30
   - source: github:quartz-community/page-title
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 10
@@ -303,7 +303,8 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
+    content:
+      template: full-width
     folder:
       exclude:
         - reader-mode
