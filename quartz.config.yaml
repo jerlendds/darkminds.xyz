@@ -30,14 +30,14 @@ configuration:
         highlight: rgba(143, 159, 169, 0.08)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#06070b"
-        lightgray: "#141e22"
+        light: "#0b0c10"
+        lightgray: "#1d1f33"
         gray: "#6B6B6B"
         darkgray: "#d4d4d4"
         dark: rgba(255, 255, 255, 0.82)
-        secondary: "#0aa687"
+        secondary: "#05ebbd"
         tertiary: rgba(15, 211, 146, 0.7)
-        highlight: rgba(25, 29, 29, 0.59)
+        highlight: "#3d4b5e96"
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
@@ -303,8 +303,7 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content:
-      template: full-width
+    content: {}
     folder:
       exclude:
         - reader-mode

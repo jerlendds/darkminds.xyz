@@ -4,23 +4,22 @@ import { pathToRoot } from "../../util/path"
 
 const Header = HeaderConstructor()
 
-function IndexBrand({ componentData }: Pick<PageFrameProps, "componentData">) {
+function SidebarBrand({ componentData }: Pick<PageFrameProps, "componentData">) {
   const slug = componentData.fileData.slug
   if (!slug) return null
-
-  const isIndexPage = slug === "index" || slug?.endsWith("/index")
-  if (!isIndexPage) return null
 
   const baseDir = pathToRoot(slug)
   const title = componentData.cfg.pageTitle
 
   return (
-    <div class="index-brand">
-      <a href={baseDir} aria-label={title}>
-        <img src={`${baseDir}/logo.svg`} alt="" />
-        <span>{title}</span>
-      </a>
-    </div>
+    <>
+      <div class="sidebar-brand">
+        <img src={`${baseDir}/logo.svg`} alt="" />{" "}
+        <a href={baseDir} aria-label={title}>
+          <span>{title}</span>
+        </a>
+      </div>
+    </>
   )
 }
 
@@ -45,12 +44,12 @@ export const DefaultFrame: PageFrame = {
     return (
       <>
         <div class="left sidebar">
+          <SidebarBrand componentData={componentData} />
           {left.map((BodyComponent) => (
             <BodyComponent {...componentData} />
           ))}
         </div>
         <div class="center">
-          <IndexBrand componentData={componentData} />
           <div class="page-header">
             <Header {...componentData}>
               {header.map((HeaderComponent) => (
@@ -83,28 +82,43 @@ export const DefaultFrame: PageFrame = {
 }
 
 DefaultFrame.css = `
-.index-brand {
+.sidebar-brand {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  margin: 0.25rem 0 2rem;
-  text-align: center;
+  margin: 0 0 2rem;
+  align-items: center;
 }
 
-.index-brand a {
+.sidebar-brand a {
   display: inline-flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  gap: 0.65rem;
+  gap: 0.75rem;
   color: var(--secondary);
   font-family: var(--titleFont);
-  font-size: clamp(2rem, 8vw, 4.5rem);
-  line-height: 0.95;
+  font-size: 2.45rem;
+  line-height: 1;
   text-decoration: none;
 }
 
-.index-brand img {
+.sidebar-brand img {
   display: block;
-  width: clamp(4.5rem, 14vw, 7.5rem);
+  width: 9.5rem;
   height: auto;
+}
+
+@media all and (max-width: 800px) {
+  .sidebar-brand {
+    margin: 0;
+  }
+
+  .sidebar-brand a {
+    font-size: 1.1rem;
+  }
+
+  .sidebar-brand img {
+    width: 2rem;
+  }
 }
 `

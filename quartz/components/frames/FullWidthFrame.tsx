@@ -4,18 +4,15 @@ import { pathToRoot } from "../../util/path"
 
 const Header = HeaderConstructor()
 
-function IndexBrand({ componentData }: Pick<PageFrameProps, "componentData">) {
+function SidebarBrand({ componentData }: Pick<PageFrameProps, "componentData">) {
   const slug = componentData.fileData.slug
   if (!slug) return null
-
-  const isIndexPage = slug === "index" || slug?.endsWith("/index")
-  if (!isIndexPage) return null
 
   const baseDir = pathToRoot(slug)
   const title = componentData.cfg.pageTitle
 
   return (
-    <div class="index-brand">
+    <div class="sidebar-brand">
       <a href={baseDir} aria-label={title}>
         <img src={`${baseDir}/logo.svg`} alt="" />
         <span>{title}</span>
@@ -55,9 +52,9 @@ export const FullWidthFrame: PageFrame = {
       return (
         <>
           <div class="center full-width">
-            <IndexBrand componentData={componentData} />
             <div class="index-aside-layout">
               <aside class="index-aside index-aside-left">
+                <SidebarBrand componentData={componentData} />
                 {left.map((BodyComponent) => (
                   <BodyComponent {...componentData} />
                 ))}
@@ -98,7 +95,6 @@ export const FullWidthFrame: PageFrame = {
     return (
       <>
         <div class="center full-width">
-          <IndexBrand componentData={componentData} />
           <div class="page-header">
             <Header {...componentData}>
               {header.map((HeaderComponent) => (
@@ -126,34 +122,35 @@ export const FullWidthFrame: PageFrame = {
 }
 
 FullWidthFrame.css = `
-.index-brand {
+.sidebar-brand {
   display: flex;
-  justify-content: center;
-  margin: 0.25rem 0 2rem;
-  text-align: center;
+  justify-content: flex-start;
+  margin: 0 0 1.5rem;
 }
 
-.index-brand a {
+.sidebar-brand a {
   display: inline-flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  gap: 0.65rem;
-  color: white;
-  font-size: clamp(1rem, 8vw, 2.5rem);
-  line-height: 0.95;
+  gap: 0.75rem;
+  color: var(--secondary);
+  font-family: var(--titleFont);
+  font-size: 1.35rem;
+  line-height: 1;
   text-decoration: none;
 }
 
-.index-brand img {
+.sidebar-brand img {
   display: block;
-  width: clamp(6.66rem, 14vw, 11.5rem);
+  width: 2.5rem;
   height: auto;
 }
 
 .index-aside-layout {
   display: grid;
   grid-template-columns: minmax(12rem, 18rem) minmax(0, 48rem) minmax(14rem, 20rem);
-  gap: 1.5rem;
+  column-gap: 1.5rem;
+  row-gap: 1.5rem;
   align-items: start;
   width: 100%;
 }
@@ -171,7 +168,13 @@ FullWidthFrame.css = `
 
 .index-aside {
   position: sticky;
-  top: 1rem;
+  top: 0;
+}
+
+.index-aside-left {
+  min-height: 100vh;
+  border-right: 1px solid var(--lightgray);
+  padding: 1.5rem 1.5rem 2rem 0;
 }
 
 .index-aside .mobile-only,
@@ -196,6 +199,12 @@ FullWidthFrame.css = `
 
   .index-aside {
     position: static;
+  }
+
+  .index-aside-left {
+    min-height: 0;
+    border-right: 0;
+    padding: 0;
   }
 
   .index-aside-left {

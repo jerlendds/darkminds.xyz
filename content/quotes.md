@@ -5,23 +5,6 @@ publish: true
 date: 2024-03-03
 ---
 
-| a   | b   |     |
-| --- | --- | --- |
-|     |     |     |
-| a   |     |     |
-|     |     |     |
-|     |     |     |
-
-| a   | b   |
-| --- | --- |
-|     |     |
-
-| t   | tgfg       | da  |     |
-| --- | ---------- | --- | --- |
-| a   | bdagrdgdgd | d   |     |
-|     |            |     |     |
-|     |            |     |     |
-
 > [!info] What the hyperlink!?
 > These quotes come from various sources like books, articles, conversations, and observations. I've provided links where possible, though some may lead to commentary or related discussions rather than original sources
 
