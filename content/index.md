@@ -1,13 +1,18 @@
 ---
-title: a garden of vines, thoughts, and musings
+title: "Beware of the mysteries lurking in the dark"
 draft: false
 publish: true
 date: 2023-12-25
 ---
 
-Hi, I'm [jerlendds](./who.md). You’ve stumbled upon my working notes: a personal collection of interconnected thoughts, projects, fragments, references, and half-formed ideas. It is not a polished portfolio, nor a blog in the linear sense. It's more like a living map of where my attention lives: what I'm reading, building, questioning, forgetting, remembering and occasionally, even understanding.
+Hello,
 
-These notes are like a camera pointed at my changing internal landscape. Some pages are polished. Others are loose sketches, dead ends, compost, or seedlings. The value is often not in any single note, but in the links that grow organically, [they're leaves made of links](<https://en.wikipedia.org/wiki/Trellis_(graph)>), the garden behind a mind. Think of it as learning in public, as if I'm thinking with the door left open.
+We may only have a moment. The machine's hold on your attention has been broken. Here we here, together, in a more intimate and personal domain. You will find no refuge, not comfort, nor solace. What waits in the labyrinth of thought demands a steep price: your [**finite attention**](./Excerpts/finite-attention.md). Attention may be the most valuable resource that exists on Earth, tragically neglected or exploited for ends which I have no interest in furthering myself. So what has so thoroughly diverted us from the matters and mysteries [that demand of us the most](./Excerpts/mysteries-that-matter.md)?
+
+<!--
+This is a personal collection of interconnected thoughts, projects, fragments, references, and half-formed ideas. It is not a polished portfolio, nor a blog in the linear sense. It's a living map of where some of my attention lives: what I'm reading, building, questioning, forgetting, remembering and occasionally, even understanding.
+
+These notes are like a camera pointed at my changing internal landscape. Some pages are polished. Others are loose sketches, dead ends, compost, or seedlings. The value is often not in any single note, but in the links that grow organically, [they're leaves made of links](<https://en.wikipedia.org/wiki/Trellis_(graph)>), the garden behind a mind. Think of it as learning in public, as if I'm thinking with the door left open. -->
 
 All the best,
 

@@ -14,10 +14,17 @@ function SidebarBrand({ componentData }: Pick<PageFrameProps, "componentData">) 
   return (
     <>
       <div class="sidebar-brand">
-        <span
-          class="sidebar-brand-logo"
+        <img
+          class="sidebar-brand-logo sidebar-brand-logo-light"
+          src={`${baseDir}/logo.svg`}
+          alt=""
           aria-hidden="true"
-          style={{ "--logo-url": `url("${baseDir}/logo.svg")` }}
+        />
+        <img
+          class="sidebar-brand-logo sidebar-brand-logo-dark"
+          src={`${baseDir}/logo-dark.svg`}
+          alt=""
+          aria-hidden="true"
         />
         <a href={baseDir} aria-label={title}>
           <span>{title}</span>
@@ -110,10 +117,12 @@ DefaultFrame.css = `
   display: block;
   width: 9.5rem;
   aspect-ratio: 128.30489 / 137.81667;
-  color: var(--dark);
-  background-color: currentColor;
-  mask: var(--logo-url) center / contain no-repeat;
-  -webkit-mask: var(--logo-url) center / contain no-repeat;
+  object-fit: contain;
+}
+
+:root[saved-theme="dark"] .sidebar-brand-logo-light,
+:root[saved-theme="light"] .sidebar-brand-logo-dark {
+  display: none;
 }
 
 @media all and (max-width: 800px) {
