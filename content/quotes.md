@@ -349,12 +349,11 @@ date: 2024-03-03
 
 --- -->
 
-<!--
-#### [__]()
+#### [_3blue1brown_](https://x.com/soleio/status/2072709873260011848)
 
->
+> You should understand where the money is coming from, and what value you’re actually adding, and the connection between those two. I think often a surprisingly small amount of thought is put towards that.
 
---- -->
+---
 
 #### [_mugtree_](https://mugtree.com/)
 
