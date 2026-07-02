@@ -8,346 +8,706 @@ date: 2024-03-03
 > [!info] What the hyperlink!?
 > These quotes come from various sources like books, articles, conversations, and observations. I've provided links where possible, though some may lead to commentary or related discussions rather than original sources
 
+
 <!--
 #### [__]()
 
->
+> 
 
 --- -->
 <!--
 #### [__]()
 
->
+> 
 
 --- -->
 <!--
 #### [__]()
 
->
+> 
 
 --- -->
 <!--
 #### [__]()
 
->
+> 
 
 --- -->
 <!--
 #### [__]()
 
->
+> 
 
 --- -->
 <!--
 #### [__]()
 
->
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__]()
+
+> 
+
+--- -->
+<!--
+#### [__](https://x.com/signulll/status/2008615537027190950)
+
+>      issue today is that ai convos are too long to filter through. keeping up with a group text thread is already hard enough. 
+
+    layering in personas would help shift towards multiplayer. responses need to be brief & from a specific role/personality or it's an info dump that's ignored.
+
+--- -->
+<!--
+#### [__](https://news.ycombinator.com/item?id=46499169)
+
+>     In Fahrenheit 451, books are destroyed to keep people distracted, shallow, and easy to manage, which is not far from today’s social media obsession where endless scrolling replaces actual thinking. What Bradbury imagined as a forbidden act has become a voluntary one, since reading now competes with algorithms engineered to reward outrage, conformity, and brain rot.
+
+
+    The sad reality is that modern governments do not need to ban books; instead: a population glued to feeds has already done the work for them.
+
+--- -->
+<!--
+#### [__](https://nik.art/the-rewards-grow-where-you-work-for-them/)
+
+> The path behind easy only leads to the lowest common denominator.
+
+--- -->
+<!--
+#### [__](https://news.ycombinator.com/item?id=46542036)
+
+> they realize much later in life is that perhaps they enjoyed the act of gardening (curating your tools, workflows, etc) much more than farming (being downright focused and productive on the task at hand).
+
+--- -->
+<!--
+#### [__]()
+
+>  the government telling regular people that simply wants to control their device that THEY are criminals and on same side as intruders.
+You should personally immediately return any computing device where you have control, this line of reasoning is insane
+
+--- -->
+<!--
+#### [__](https://www.joanwestenberg.com/the-case-for-blogging-in-the-ruins/?ref=westenberg-newsletter )
+
+>     270 years later, we have more information than any civilization in history. But aside from Wikipedia, we've organized the sum total of our collective knowledge into formats optimized for making people angry at strangers in pursuit of private profitability.
+
+
+    Social media removed the friction of publishing, and in doing so removed the selection pressure that separated signal from noise. We "democratized" the ability to publish (good?) while simultaneously destroying the conditions that made publishing meaningful (bad!). 
+
+
+    uncertainty as a fundamental feature rather than a bug to be eliminated.
+
+
+--- -->
+<!--
+#### [__]()
+
+> believed that organizing knowledge properly could change how people thought. He spent two decades on it. He went broke. He watched collaborators quit and authorities try to destroy his work. He kept going because the infrastructure mattered, because how we structure the presentation of ideas affects the ideas themselves.
+
+--- -->
+<!--
+#### [__]()
+
+> In Middlemarch George Eliot writes about how we'd go mad if we could hear the "roar which lies on the other side of silence," the constant suffering of all the people and creatures in the world happening simultaneously. She meant it as an argument for why we shouldn't feel guilty about our bounded sympathies, and why it was okay that we couldn't care about everything at once. But we've built a machine that lets us hear that roar, or at least a curated selection of it, delivered directly to our phones at all hours. And while we haven't gone mad exactly, we've developed something like a collective attention disorder.
+
+--- -->
+<!--
+#### [_Albert Camus_]()
+
+> What is a rebel? A man who says no, but whose refusal does not imply a renunciation. He is also a man who says yes, from the moment he makes his first gesture of rebellion.
+
+--- -->
+<!--
+#### [__]()
+
+> Molecules form cells, cells form humans, humans form organizations. Slavery is illegal, yet it's legal to own a group of humans, replace parts against the group's will and order the group to do something against their will. Owning companies is just an abstraction built to replace slavery with enough indirection that people don't object.
+
+--- -->
+<!--
+#### [_Viggo Mortensen_]()
+
+> To be an artist, you don't have to compose music or paint or be in the movies or write books. It's just a way of living. It has to do with paying attention, remembering, filtering what you see and answering back, participating in life.
+
+--- -->
+<!--
+#### [__]()
+
+> They say, timing is everything. But then they say, there is never a perfect time for anything. Anthony Liccione
+
+--- -->
+<!--
+#### [_William Stafford_]()
+
+>     Theres a thread you follow. It goes among things that change. But it doesnt change. People wonder about what you are pursuing. You have to explain about the thread. But it is hard for others to see. While you hold it you cant get lost. Tragedies happen; People get hurt; Or die; And you suffer and get old. Nothing you do can stop times unfolding. You dont ever let go of the thread
+
+
+--- -->
+
+<!--
+#### [_randusername_]()
+
+> Culture is not a monolith in space or time. Write for the rebels far away or the ones yet to come.
+
+--- -->
+<!--
+#### [_Ryandrake_]()
+
+> Honestly, most people are boring. They have boring lives, write boring things, consume boring content, and, in the grand scheme of things, have little-to-no interesting impact on the world before they die.
+
+
+--- -->
+<!--
+#### [_Malassi_]()
+
+> There's a quote by a millionaire I've heard a couple years ago that was something like: "If I don't wake up in the morning I might loose thousands of dollars and even though I don't need it anymore I realized that I've never been so dependent of money as I am now"
+
+--- -->
+<!--
+#### [_tbc_]()
+
+> Life is challenging
+Timing is crucial
+Be neither early nor late
+Be present and mindful
+Pace yourself
+
+--- -->
+<!--
+#### [__]()
+
+> All the woe of man comes from one single thing only: not knowing how to remain at rest, in a room
+
+--- -->
+<!--
+#### [__]()
+
+>  Virus est veritas
+
+--- -->
+<!--
+#### [_Saul Bass_]()
+
+>  I want to make beautiful things… even if nobody cares.
+
+--- -->
+<!--
+#### [__](https://www.therantydev.com/javascript-drms-are-stupid )
+
+>  Unfortunately, the Internet is no longer just a toy for the nerds amongst us. For many, it’s a source of income and a way to put food on the table.
+
+--- -->
+<!--
+#### [__](https://unsung.aresluna.org/its-not-so-simple-to-celebrate-a-phrase/)
+
+>  less technical perfection means more emotional impact.
+
+--- -->
+<!--
+#### [__](https://www.fubardaily.com/ )
+
+> The truth is alive and well / it’s underground livin’ on the WiFi still
+
+--- -->
+<!--
+#### [_7777777phil_]()
+
+>  
+The MCP point is right, though tbh MCP is more like plumbing than memory. Execution-time context for tools and resources. The world model is a different thing entirely, it needs to persist across sessions, accumulate, actually be queryable.
+
+In practice it's mostly RAG over structured artifacts. Process docs, decision logs, annotated code and so on. Conversation history works better than you'd expect as a starting point but gets noisy fast and I haven't seen a clean pruning strategy anywhere...
+
+On the format question imo nobody really knows yet. Probably ends up as some kind of knowledge graph with typed nodes that MCP servers expose or so, but I haven't seen anyone build that cleanly. Most places are still doing RAG over PDFs so. That tells you where the friction is.
+
+--- -->
+<!--
+#### [_fenn_]()
+
+>  people who make mistakes are more likely to make more mistakes, not less. Essentially sampling from a distribution of a propensity for mistakes and this dominated any sign of learning from mistakes.
+
+
+--- -->
+<!--
+#### [__](https://en.wikipedia.org/wiki/Vae_victis)
+
+> 
+
+--- -->
+<!--
+#### [__](https://en.wikipedia.org/wiki/Knightian_uncertainty)
+
+> 
+
+--- -->
+<!--
+#### [__](https://kristiedegaris.substack.com/p/the-writing-factory)
+
+> When those values are confused, writers are taught to experience the necessary ‘slowness’ of thinking as a negative, something to overcome. To see pauses, false starts, and long stretches of apparent stagnation as evidence that something has gone wrong. But nothing has gone wrong. This is simply what it looks like to make something that has never existed before.
+
+--- -->
+<!--
+#### [__](https://rogerwong.me/2026/02/how-ai-assistance-impacts-the-formation-of-coding-skills)
+
+>  Cognitive effort—and even getting painfully stuck—is likely important for fostering mastery.
+
+--- -->
+<!--
+#### [__](https://random.qmx.me/posts/2026/01/05/first-mover-advantage-isnt-enough/)
+
+>  This is the kind of execution that erodes first mover advantage. They’re not just copying features - they’re finding the right abstractions underneath. Give it six months and we’ll see where things stand.
+
+--- -->
+<!--
+#### [__]()
+
+>  Good research (1) advances the body of scientific knowledge in a way that's (2) accurate and (3) approachable. Your job is to do all three.
+
+--- -->
+<!--
+#### [__]()
+
+>  sadly it wants to retain its fundamental human rights
+
+--- -->
+<!--
+#### [__]()
+
+> There are 2 types of people using AI: Those who use it so they can know everything, and those who use it so they don't have to know anything.
+
+--- -->
+<!--
+#### [__]()
+
+> "A change in perspective is worth 80 IQ points", said Alan Kay.
+
+--- -->
+<!--
+#### [__]()
+
+> I'm going to ask a potentially offensive question, but an earnest one.
+I often see people make these kinds of proclamations about world events - 'It saddens me, I want world peace' etc. But my question is always, 'How much of that is genuine concern, and how much is just performative? And performative to the level that it's partly performative for themselves, to maintain some kind of image about their own identity?'.
+I ask because here's the place I've come to: I don't care. I never did. And I first admitted that on the topic of meat eating actually - I was vegetarian for a year due to the ethics of it, but eventually I caved and went back to meat. And from that I admitted to myself: I value my own comfort and pleasure more than the suffering of the animals I eat.
+And I realised that truth applied to all other such issues as well.
+Sometimes I suspect that if 'we the people' really cared about these things as much as we claim we do, it would actually be very simple to change the world.
+But we don't.
+
+--- -->
+<!--
+#### [__]()
+
+> Put a bad driver in an F1 car and you won't make them a racer. You will just help them crash faster. Put a great driver in that same car, and they become unstoppable.
+
+Technology was never equaliser. It just divides
+
+--- -->
+<!--
+#### [__]()
+
+> We find that identity framings shift behaviour as much as goal types. Some identities reduce harmful behaviours to a fraction of the baseline.
 
 --- -->
 
 <!--
 #### [__]()
 
->
+> extracting truths from the space of possible structures.
+> Mathematical truths exist independently; computation is a tool for excavating them.
 
 --- -->
 <!--
 #### [__]()
 
->
+> Some new shit is afoot. We are entering into a new, turbulent, uncertain era of computing. A lot of people who previously had a pretty confident grasp of both the core in the frontier of their work now do not understand what is driving the frontier. They have made the fact that they do not understand this everyone else’s problem. Rather than admit that they do not understand an area they used to understand we are subjected to incessant infantile progression through what I hope are stages of grief. Because at least then it might come to an end.
+
+Everyone has an explanation for why this is all gonna collapse tomorrow and why they don’t need to learn about it. Everyone has a smart remark about the use of AI for some very important moral reason which also means they don’t need to learn about it. They both add up to the same thing which might just be healthier if treated as a true admission of ignorance.
 
 --- -->
 <!--
 #### [__]()
 
->
+> You're going to get left behind if you don't vote or participate in democracy
 
 --- -->
 <!--
 #### [__]()
 
->
+> Chatgpt acts like it snorted a mark down file
 
 --- -->
 <!--
 #### [__]()
 
->
+> La mémoire poetique, jadis source infinite de jouissances, est devenue an arsénal inépuisable d'instrument de supplices
+
+--- -->
+<!--
+#### [_God Emperor of Dune_]()
+
+> What do such machines really do? They increase the number of things we can do without thinking. Things we do without thinking; there's the real danger.
+
+--- -->
+
+<!--
+#### [_clejack_]()
+
+> Consider this. You can take anyone from any group in your nation, place them in a different nation, with a different culture, and they will adopt the mannerisms and accents of that culture.
+We focus on race constantly, but it's clear that culture drives the norms that we see in any group. And culture may be persistent (especially now with technology allowing every culture to potentially spread everywhere), but it's not intrinsic.
+
+--- -->
+<!--
+#### [_Victor Glover, Artemis II NASA Astronaut_]()
+
+> You guys are talking to us because we're in a spaceship really far from Earth, but you're on a spaceship called Earth that was created to give us a place to live in the universe. Maybe the distance we are from you makes you think what we're doing is special, but we're the same distance from you. And I'm trying to tell you — just trust me — you are special. In all of this emptiness — this is a whole bunch of nothing, this thing we call the universe — you have this oasis, this beautiful place that we get to exist together. I think, as we go into Easter Sunday, thinking about all the cultures all around the world, whether you celebrate it or not, whether you believe in God or not, this is an opportunity for us to remember where we are, who we are, and that we are the same thing, and that we've gotta get through this together.
 
 --- -->
 <!--
 #### [__]()
 
->
-
---- -->
-
-<!--
-#### [__]()
-
->
+> Williams also wrote that to be truly radical is to make hope possible rather than despair convincing. Despair right now is extremely convincing and extremely profitable. Hope would be the opposite - something that doesn't need you to feel desperate in order to work
 
 --- -->
 <!--
 #### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
+ 
+> Raymond Williams wrote in 1961 that “every aspect of our personal life is radically affected by the quality of general life” and yet we insist on seeing it in completely personal terms - and all of this is a great case study of that. What’s being sold as personal control is not actually control. Control would go beyond the individual, to mean affordability and functional institutions and to quote Kayyeem, a government that actually governs What’s being sold instead is the feeling of individual control through the bet, the hack, the feed, the subscription, the optimization, in my case. 
 
 --- -->
 
 <!--
 #### [__]()
 
->
+> The understandable cultural response to this instability (which has persisted for many years) has been quick fixes that feel like optimization but are actually avoidance to fixing the larger problems. 
 
 --- -->
 <!--
 #### [__]()
 
->
+> The Fed is in wait-and-see mode, doing the best they can given the circumstances. The government is half-shut down. Corruption is slithering through sewers and escaping from air vents. And diplomacy is replaced by memes.
+
 
 --- -->
 <!--
 #### [__]()
 
->
+> bad incentives, propaganda, addictive media, and institutional decay can spread in a way that looks a lot like a civilization-scale cognitive illness.
+ 
+--- -->
+<!--
+#### [__]()
+
+> death gotta be easy ‘cause life is hard!
 
 --- -->
 <!--
 #### [__]()
 
->
+> Folks in 1957 had at least some reason to be afraid, and the fear was grounded in something real: you could measure the gap in rocket technology down to the pound of thrust. But the people who responded to that fear by building things (the Apollo program, the engineers who decided the problem was solvable) landed on the moon. The people who responded by predicting doom were forgotten before the decade was out.
 
 --- -->
 <!--
 #### [__]()
 
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
+> The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants
 
 --- -->
 
 <!--
 #### [__]()
 
->
+> All IT systems are political systems, because they decide how information and decisions flow.
+
+--- -->
+<!--
+#### [__]()
+
+> An election is two (or more) armies going to the ballot box to see who has more numbers. Nothing more.
+
+--- -->
+<!--
+#### [_Plato_]()
+
+> states will never be happy until rulers become philosophers or philosophers become rulers.
+
+--- -->
+<!--
+#### [__]()
+ 
+> That's crossing into metaphysics, which isn't usually a welcome topic here, but the fact remains that more than 80% of the current and prior world population believes/believed in a non-material reality.
+The persistence and stickiness of that belief throughout history ought to at least make us sit up and pay attention. Something's going on, and it's not a mere historic lack of scientific rigor, notwithstanding science's penchant for filling gaps people previously attributed to spiritual causes. That near-universal reflex to attribute things to spiritual causes in the first place is what's interesting - why do people not merely say the cause is "something physical we don't understand"?
+
+--- -->
+<!--
+#### [__]()
+
+> AI is a bit like playing with a very sharp knife, if you cut yourself you might not even notice at first
+
+--- -->
+<!--
+#### [__]()
+
+> Sure they would. Cloudflare has already arbitrarily blocked entire swathes of the internet. Captcha as well. Your average user ends up going to the path of least resistance, and end up with a compliant ISP or carrier that's doing all sorts of censorship and gatekeeping and siloing and funneling.
+And if they did get noticed, they'd whip up some sort of program through their cronies like the Obama phone, and get subsidized service to some token groups, heavily favoring political funneling and defaults supporting whatever party won the grift for that particular round of conspicuous do-gooding.
+It's bad, man. For technically savvy people, they can get around things, switch up DNS, muck with vpns, etc. Normal folks are kept firmly within the walled gardens.
+Then there's the information silos, platforms, and psychological shit they use. People don't have a chance in hell of getting a free and open link to the internet, what they see is tied to their identity, tied to their service provider, tied to their geographic location, and it's all done seamlessly in the background so they never even notice what they're missing, by design.
+It wasn't snark. It's the awful, honest truth, and I have things to suggest involving wire brushes for anyone at Google or any other company involved in this shit.
+We need a digital bill of rights, outlawing commercial trafficking in user data, mandatory ephemerality, and penalties involving prison time for CEOs and fines that are rapidly and unavoidably fatal even for companies like Alphabet or Amazon if they screw up even a little bit. Otherwise, this whole pretense at a free and open internet is just a convenient talking point and marketing schlock.
 
 --- -->
 
 <!--
 #### [__]()
 
->
+> I'm sure you're able to drive faster than the speed limit as well. The issue isn't whether technical circumvention is in the realm of possibility. The base issue here is that even so called 'democratic' governments seem to be copying the authoritarian playbook when it comes to cracking down on privacy online.
+
+--- -->
+<!--
+#### [_Blindness and n Order Effects_]()
+
+> People only see them when they're being objective. My impression is that most people spend most of their time worrying about social status and engaging in tribalism meaning society on the whole is either blind to them or more likely will make up an answer that suits them.
 
 --- -->
 <!--
 #### [__]()
 
->
+> If you want an example, I guess the enthymeme would be:
+a) Internet privacy is in one's self-interest
+b) Many erroneously believe privacy on the internet to be goal of terrorists, hackers, etc.
+c) A subset of these people then act against their own self-interest by vocally supporting mass surveillance, or voting in candidates who do so, in the name of the apparent self-interest of safety
+I also didn't say anything about pro/antisocial people... different person.
 
 --- -->
 <!--
-#### [__]()
+#### [_Your Most Improbable Life_]()
 
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
+> Your life’s goal should be to become the most improbable person you can be. Your path, your character, your life, should be the most unlikely, the most unexpected, the least predictable version you can make. Improbable lives have fewer competitors, more unique rewards, and are harder to replace with AIs, since AIs run on the predictable. This is true whether you favor traditional humanist directions or work on a frontier.
 
 --- -->
 
 <!--
 #### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
-
---- -->
-<!--
-#### [__]()
-
->
+ 
+> This is the juxtaposition the general public is in. They don’t have advanced tech skills to know any better so they see an output that they can’t produce from their skills and think it’s great. Maybe it is, maybe it isn’t. What does the code look like?
 
 --- -->
 
 <!--
 #### [__]()
 
->
+> Justice delayed is justice denied
 
 --- -->
 <!--
 #### [__]()
 
->
+> There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion. — Donella Meadows.
 
 --- -->
 <!--
 #### [__]()
 
->
+> “Those who live by electronics, die by electronics. Sic semper tyrannis,” as Kurt Vonnegut wrote in Player Piano
+
+--- -->
+<!--
+#### [__](https://ludic.mataroa.blog/blog/the-narrative-fallacy/#fn:3)
+
+> If you say that everything in the unit was just post-hoc rationalizations that don’t really explain anything? That’s not even playing the game poorly. That’s flipping the table over, and you’re going to get sent packing with a failing grade. It might sound fun to point out that the emperor has no clothes, but do you know the thing about emperors? They can decide to hang you and no one will stop them.
+
+--- -->
+<!--
+#### [__](https://ludic.mataroa.blog/blog/get-weird-and-disappear/)
+
+> But swearing? Who gives a shit? Is that really going to be the difference between a good book and a bad book? Why on earth would you hear that you've got someone interested in writing a book whose writing is doing millions of hits that very week and then immediately tell them that you know what will sell better than they will? In fact, the only other book they've got that's well-known enough for me to recognize it has swearing in it, so I know it isn't even a principled brand stance. A midwit just went "I am slightly self-conscious about how I appear to my boss" and that was enough to tank the whole thing.
+
+--- -->
+<!--
+#### [__](https://www.letsjam.live/)
+
+> Everyone's talking about how AI coding means the end of SaaS. Investors have wiped trillions off software market caps.
+
+Well, that might be bad news for incumbents, but it's good news for startups. If the incumbents really are this vulnerable, it should be the biggest startup opportunity in a decade. So, go build a challenger!
+
+The SaaS model won because custom software was too expensive. A five-person startup couldn't outbuild Salesforce. But AI has collapsed the cost of producing software by 10-100x, and that changes everything. The moat that once protected legacy SaaS — millions of lines of code, built over decades — is gone.
+
+There's a spectrum of ways to attack this. The simplest: clone an existing product and sell it for one-tenth the price. But you can go much further. You can build a product that's AI-native from the ground up. Not a chatbot bolted onto a 2010 UI, but software that fundamentally rethinks the workflow. You can take ten SaaS point solutions and bundle them into a single suite. You can build an open-source replacement for a product that costs $50K per seat and give it away, then monetize through services and hosting.
+
+Most people drawn to this idea start with simple targets like project management tools. We'd encourage you to think bigger. Go after the products that seem invulnerable: chip design software, ERPs, industrial control systems, supply chain management. The giant, 10-million-line codebases that have been untouchable for decades.
+
+The last generation of great software companies was built by replacing on-premise with cloud. The next generation will be built by replacing legacy SaaS with AI-native software.
+
+--- -->
+
+<!--
+#### [__]()
+
+> Companies are spending about $1 trillion this year in capex in the US! World wide estimate is about $2.52 trillion in AI spend in 2026 according to Gartner. There has never been a bigger spend in tech. It's so much spend that the software industry has to basically double in revenue in the next couple years to keep up.
 
 --- -->
 <!--
 #### [__]()
 
->
+> So it goes. Wage theft dwarfs the amount lost to street-level theft, robbery, burglary, etc., combined. The economic stimulus from correcting even a portion of annual wage theft would represent complete coverage of those violent thefts - economically-speaking, there would be no reason for criminals to carry them out. Why rob a gas station to get your drug money? Everyone around you is making enough extra at work that bumming a dollar here and there covers it. That sort of thing.
+But good forbid we actually correct a major social ill at the expense of the people who profit from it.
+
+--- -->
+<!--
+#### [__]()
+
+> Bread, circus, strife, anger, hopelessness, antinatalist cultural products and it doesn't need anything aggressive or spectacular. People will just cease to reproduce seemingly of their own will. South Korea to the nth power.
+
+--- -->
+<!--
+#### [__]()
+
+> I don't think this is dissimilar to the US to be honest. We just happen to have inflated and questionable revenue being reported at levels that gloss over the true underpinnings of the economy. I think this may be a leading indicator.
+I really liked how Cory Doctorow framed what Canada could be doing with respect to digital sovereignty in his book ("Enshittification"). Doctorow argues that if Canada repealed its anti-circumvention law (Bill C-11), Canadian companies could legally jailbreak American tech products (John Deere tractors, the Apple App Store, etc) and sell those fixes worldwide, turning the right to tinker into a massive export industry and a form of digital sovereignty.
+One can dream.
+
+--- -->
+<!--
+#### [__]()
+
+> It's an unfortunate situation. Particularly if you're the sort of person who cares about getting to the best outcome and you realise how many geniuses must get shut down when the best way isn't the usual one. In practice incompetent but routine gets a lot more tolerance than competent but eccentric. Someone needs to be very competent indeed to overcome eccentricity.
+
+--- -->
+<!--
+#### [__]()
+
+> The first technologist was Prometheus who took fire from the gods and gave it away to humanity. The gods did not believe that humans deserved to cook their food, so they tortured him forever for doing it. This is a story that has repeated itself throughout history. My favorite movie is Stand and Deliver, which is about a group of young kids from the ghetto who learned calculus and aced the AP exam, only to have their scores revoked and were forced to take the test again. Any time a group gains knowledge which other people feel like they shouldn't have, there is always an unfair cost that must be paid, otherwise society is incapable of accepting it.
 
 --- -->
 
 <!--
 #### [__]()
 
->
+> We do not want your data. Please keep it to yourself.
 
 --- -->
 <!--
 #### [__]()
 
->
+> I passed a series of those and since I remembered the questions from a relatives autism diagnosis testing I asked what they do since they are effectively filtering for things like that.
+HR rep said those applicants should probably go see a shrink instead (!!???) and that was the end of me interviewing there.
+The testing needs to end. The people using these tools don't know how they work, what they are testing and what blanket denials of personality types really means.
 
 --- -->
 <!--
 #### [__]()
 
->
+>  Abusus non tollit usum.
 
 --- -->
 <!--
 #### [__]()
 
->
+>     Jeb: "If everybody's got one of these auto-whatsits, does anybody code anymore?"
+    Doc Brown: "Of course we code. But for recreation. For fun."
+    Jeb: "Code for fun? What the hell kind of fun is that?"
+
+--- -->
+
+<!--
+#### [__]()
+
+> Only take care, and keep your soul diligently,
+    lest you forget the things your eyes have seen,
+    and lest they depart from your heart all the days of your life.
+
+    Teach them to your children and to your children's children.
 
 --- -->
 <!--
 #### [__]()
 
->
+> Someone pointed out[1] a while ago that LLMs look good at things you are bad at. Which is I think one of the best explanations of why so many people disagree about how good they are at programming. There are a lot of people really bad at programming, and they will look at the output if an LLM and say “Wow, it’s so much better than my code!”
 
 --- -->
 <!--
 #### [__]()
 
->
+> every closed model is a potential vector for “payloads”: recommendations, nudges, mindshaping. Opaque APIs mean “hidden levers.” If you don’t control it, it will, eventually, control you.
 
 --- -->
+<!--
+#### [__]()
+
+> the street finds its own use for things.
+>
+> all the most interesting things happen when users of technology (often without formal training or credentials) find ways to adapt the technology they use to suit their needs
+
+--- -->
+<!--
+#### [__]()
+
+> The iPad's much-lauded "ease of use" was entirely about how easy it was to use an iPad to consume technology. But the iPad remains the single most user-innovation-hostile technology in modern history, a device designed to make it impossible to produce technology without permission from a remorseless multinational corporation. This is cyberpunk as a demand, not a warning
+
+--- -->
+
+#### [_Pink Floyd_](https://en.wikipedia.org/wiki/Pink_Floyd)
+
+> You are young and life is long, and there is time to kill today. And then one day you find ten years have got behind you. No one told you when to run. You missed the starting gun. And you run, and you run, to catch up with the sun, but it's sinking.
+
+---
 
 #### [_3blue1brown_](https://x.com/soleio/status/2072709873260011848)
 
@@ -911,9 +1271,6 @@ This brilliant commentary by Tom Pollak closely mirrors some thoughts I had rece
 #### [_Music to break the human mind_](https://matthodges.com/posts/2025-08-26-music-to-break-models-by/)
 
 > The trick is called diagonalization. The original idea comes from Cantor’s diagonal argument (showing the reals are uncountable) and Gödel’s and Turing’s later uses of the same “self-reference via a diagonal” trick to construct an object that refers to itself in a way the system can’t handle. In computer science, diagonalization means if you have a machine that claims to handle all possible inputs, you can always cook up a special input that “diagonalizes” against it with an input that encodes information about the machine itself and forces a contradiction or unexpected behavior. The core example in GEB shows how Gödel numbered a system’s statements, then built a statement that says “I am not provable” which the system can’t consistently resolve. Similarly, Turing showed that if you had a program that decides whether any program halts, you can feed it its own description in a way that breaks it.
-
-<!--
-I wonder, is it possible to show that if a human has specific traits/environment/experiences/upbringing/etc _and_ they decide to have specific thoughts on `x` subject matter, whether this alone can lead to madness in a way that breaks the mind. -->
 
 ---
 
