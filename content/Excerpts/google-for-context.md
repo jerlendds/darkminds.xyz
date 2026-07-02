@@ -4,6 +4,8 @@ title: "Google for context spaces"
 
 This has sparked some ideas in me...
 
+> ### so embrace the discomfort and invent.
+
 ---
 
 ```chat {.left .muted from="@thesephist" time="Apr 28, 2022"}
@@ -29,7 +31,7 @@ ex: quotes, thoughts etc.
 The concept of distance between concepts does not map easily to knowledge spaces, IMO. We need a better analogy, where the relatedness of knowledge spaces is captured somehow
 ```
 
-```chat {.left from="@MatthewWSiu" time="May 1, 2022"}
+```chat {.right from="@MatthewWSiu" time="May 1, 2022"}
 in this case, I thought distance made sense as I was computing vector representations and the distances between
 
 however, what do you think might make for a better analogy?
@@ -43,7 +45,7 @@ What gives me pause in that definition is that the distance per cosine similarit
 My version of this uses WordNet, search results, wiki and a generative pipeline
 ```
 
-```chat {.left from="@MatthewWSiu" time="Apr 28, 2022"}
+```chat {.right from="@MatthewWSiu" time="Apr 28, 2022"}
 what if we had google maps but for navigating information space?
 ```
 
@@ -80,8 +82,6 @@ and should this (or some vastly better version) one day exist, someone will even
 
 anyways this is what going through a paradigm shift is like and they're going to become a lot more frequent as our society continues to advance and produce knowledge
 ```
-
-## so embrace the discomfort and invent.
 
 ### Further Reading
 
