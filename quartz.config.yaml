@@ -14,10 +14,13 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Metamorphous
-      header: Questrial
-      body: Lato
-      code: IBM Plex Mono
+      title:
+        name: "Major Mono Display"
+        weights:
+          - 800
+      header: "Questrial"
+      body: "Lato"
+      code: "IBM Plex Mono"
     colors:
       lightMode:
         light: "rgba(255, 255, 255, 0.82)"
@@ -25,7 +28,7 @@ configuration:
         gray: "#b8b8b8"
         darkgray: "#3B3A3A"
         dark: "#06070b"
-        secondary: "#00856a"
+        secondary: "#2b8b78"
         tertiary: "rgba(00, 80, 66, 0.9)"
         highlight: "#b3ffed96"
         textHighlight: "#fff23688"
@@ -35,7 +38,7 @@ configuration:
         gray: "#6B6B6B"
         darkgray: "#d4d4d4"
         dark: "rgba(255, 255, 255, 0.82)"
-        secondary: "#05ebbd"
+        secondary: "#049175"
         tertiary: "rgba(15, 211, 146, 0.7)"
         highlight: "#0a244c96"
         textHighlight: "#b3aa0288"
@@ -103,9 +106,9 @@ plugins:
       useThemeFonts: false
       fontOrigin: googleFonts
       title:
-        name: Zilla Slab Highlight
+        name: "Major Mono Display"
         weights:
-          - 700
+          - 800
       header:
         name: Questrial
         weights:
@@ -178,9 +181,6 @@ plugins:
     layout:
       position: left
       priority: 20
-      group: toolbar
-      groupOptions:
-        grow: true
   - source: github:quartz-community/backlinks
     enabled: true
     layout:

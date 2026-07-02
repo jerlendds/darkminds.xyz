@@ -27,7 +27,7 @@ function SidebarBrand({ componentData }: Pick<PageFrameProps, "componentData">) 
           aria-hidden="true"
         />
         <a href={baseDir} aria-label={title}>
-          <span>{title}</span>
+          <span style="font-weight: 500;">{title}</span>
         </a>
       </div>
     </>
@@ -108,7 +108,7 @@ DefaultFrame.css = `
   gap: 0.75rem;
   color: var(--secondary);
   font-family: var(--titleFont);
-  font-size: 2.45rem;
+  font-size: 2.1rem;
   line-height: 1;
   text-decoration: none;
 }

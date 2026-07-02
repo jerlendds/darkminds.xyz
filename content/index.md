@@ -7,7 +7,7 @@ date: 2023-12-25
 
 Hello,
 
-We may only have a moment. The machine's hold on your attention has been broken. Here we here, together, in a more intimate and personal domain. You will find no refuge, not comfort, nor solace. What waits in the labyrinth of thought demands a steep price: your [**finite attention**](./Excerpts/finite-attention.md). Attention may be the most valuable resource that exists on Earth, tragically neglected or exploited for ends which I have no interest in furthering myself. So what has so thoroughly diverted us from the matters and mysteries [that demand of us the most](./Excerpts/mysteries-that-matter.md)?
+We may only have a moment. The machine's hold on your attention has been broken. Here we are, together, in a more intimate and personal domain. You will find no refuge, not comfort, nor solace. What waits in the labyrinth of thought demands a steep price: your [**finite attention**](./Excerpts/finite-attention.md). Attention may be the most valuable resource that exists on Earth, tragically neglected or exploited for ends which I have no interest in furthering myself. So what has so thoroughly diverted us from the matters and mysteries [that demand of us the most](./Excerpts/mysteries-that-matter.md)?
 
 <!--
 This is a personal collection of interconnected thoughts, projects, fragments, references, and half-formed ideas. It is not a polished portfolio, nor a blog in the linear sense. It's a living map of where some of my attention lives: what I'm reading, building, questioning, forgetting, remembering and occasionally, even understanding.
@@ -22,12 +22,6 @@ _P.S. Here are some quotes I like:_
 
 ---
 
-> [!cite] [**_Strange how certain arrangements of words sear themselves into your mind..._**](https://kupajo.com/)
->
-> Then they wait. A day or a decade later, like a song you catch yourself humming, you realize those words have been quietly shaping your beliefs, your actions, your identity.
-
----
-
 > [!cite] [**_The Yoneda lemma_**](https://www.networkspirits.com/blog/yoneda-epistemology/)
 >
 > mind-bending insight: _every object is completely determined by the morphisms (arrows) pointing into it from all other objects_
@@ -36,7 +30,7 @@ _P.S. Here are some quotes I like:_
 
 > [!cite] [**_The act of remembering is not a retrieval but a recreation._**](https://nautil.us/the-past-is-a-ghost-and-the-future-a-fantasy-1221672/)
 >
-> Each time we remember, we do not pull out a file from the cabinet of the brain. We reconstruct the past. We infer, we embellish, we forget. The act of remembering is not a retrieval but a recreation. The brain opens the memory like a manuscript, edits the text—sometimes subtly, sometimes wildly—and binds it again, unaware that it has revised history.
+> Each time we remember, we reconstruct the past. We infer, we embellish, we forget. The act of remembering is not a retrieval but a recreation. The brain opens the memory like a manuscript, edits the text—sometimes subtly, sometimes wildly—and binds it again, unaware that it has revised history.
 
 ---
 
