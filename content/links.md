@@ -13,6 +13,7 @@ At a surface level these piqued my interest, I'm storing them here to read later
 
 ### 2026
 
+- https://horace.io/brrr_intro.html
 - https://news.ycombinator.com/item?id=48470581
 - https://www.omniglot.com/
 - https://news.ycombinator.com/item?id=48485958
