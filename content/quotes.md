@@ -111,7 +111,7 @@ date: 2024-03-03
 
 ---
 
-#### [\_\_](https://x.com/signulll/status/2008615537027190950)
+#### [_too long to filter_](https://x.com/signulll/status/2008615537027190950)
 
 > issue today is that ai convos are too long to filter through. keeping up with a group text thread is already hard enough.
 >
