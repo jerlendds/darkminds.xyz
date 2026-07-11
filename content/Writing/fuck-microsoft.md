@@ -1,5 +1,5 @@
 ---
-title: "MS nonsense"
+title: "microsoft sucks"
 draft: false
 publish: true
 date: 2025-07-27

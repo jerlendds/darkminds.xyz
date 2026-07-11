@@ -1,5 +1,5 @@
 ---
-title: "is it a backdoor in iOS?!"
+title: "is it a backdoor in ios?!"
 draft: false
 publish: true
 date: 2025-08-29
@@ -12,14 +12,17 @@ tags:
 >
 > I discovered this information sometime around 07/30/2022...
 
-*me:*
+_me:_
+
 > im concerned about the integrity of all my technology now lol
 
-*x:*
+_x:_
+
 > uh oh
 > did you get hacked
 
-*me:*
+_me:_
+
 > worse. WAY worse. Anyways, I came across this request right. this is while looking at tiktok requests on an iOS device that's jailbroken...
 
 ![tiktok-requests-ios-jailbroken.webp](./tech/assets/tiktok-requests-ios-jailbroken.webp)
@@ -54,10 +57,11 @@ and then I try to narrow it down more...
 >
 > https://www.reddit.com/r/Rogers/comments/s42k93/what_is_dmsaegslbnetrogerscom/
 
-*x:*
+_x:_
+
 > hmmmm
 
-*me:*
+_me:_
 
 > the results are wack
 
@@ -88,28 +92,33 @@ Connection: close
 
 > **400**
 
-*x:*
+_x:_
+
 > are you connected to your home wifi?
 
-*me:*
+_me:_
+
 > yes
 
-*x:*
+_x:_
+
 > whos your isp?
 
-*me:*
+_me:_
+
 > Shaw
 
 ![request-body-weird-request.webp](./tech/assets/request-body-weird-request.webp)
 
 > the request body, I reallly wanna know what that is
 
-*x:*
+_x:_
+
 > i mean on the bright side you can block rogers ip's right lol
 >
 > would be interesting to know why/how they're doing this
 >
- >wonder if mobile providers install backdoors on every phone they sell
+> wonder if mobile providers install backdoors on every phone they sell
 >
 > well
 >
@@ -117,38 +126,46 @@ Connection: close
 >
 > if this is happening lol
 
-*me:*
+_me:_
+
 > lmao, my home network is not at all ready for any serious adversary. hmmm
 
+_x:_
 
-*x:*
 > Global server load balancing (GSLB)
 
-*me:*
+_me:_
+
 > whats that?
 
-*x:*
+_x:_
+
 > just googling parts of the request url
 >
 > EGSLB auto suggested GSLB
 >
 > cant figure out dmsa
 
-*me:*
+_me:_
+
 > elastic gslb might make sense
 
-*x:*
+_x:_
+
 > yea
 >
-> there's a rogers VOIP service that is on URL's uccdm.egslb.net.rogers.com:*
+> there's a rogers VOIP service that is on URL's uccdm.egslb.net.rogers.com:\*
 
-*me:*
+_me:_
+
 > `https://dmsa.egslb.net.rogers.com:8181/ium-OEMInterface/servlet/IUMServlet`
 
-*x:*
+_x:_
+
 > cant parse uccdm but its "unison" phone service
 
-*me:*
+_me:_
+
 > thats unison
 >
 > lmao
@@ -157,10 +174,12 @@ Connection: close
 >
 > tryna osint this rn
 
-*x:*
+_x:_
+
 > what are the odds that its just a random built in function that just pings to check if there is a sim card
 
-*me:*
+_me:_
+
 > idk
 >
 > I trust this reddit guy more than I should lol
@@ -169,52 +188,58 @@ Connection: close
 >
 > https://www.reddit.com/r/Rogers/comments/s42k93/comment/ht7o4cq/?utm_source=share&utm_medium=web2x&context=3
 
-*x:*
+_x:_
+
 > you'd think android would have permissions in place for this though
 
+_me:_
 
-*me:*
 > its an iOS device 😳
 
+_x:_
 
-*x:*
 > even moreso then lol. ios prides themselves on security
 
+_me:_
 
-*me:*
 > yeah lol
 
+_x:_
 
-
-*x:*
 > this would be a huge security scandal if apple had backdoors for ISPs
 
-*me:*
->  hmm
+_me:_
+
+> hmm
 > so
 > lmao
 >
 > I probably shouldnt be doing this but since in burpsuite the requests were getting a 400 response I wondered what would happen if I just copied that request as curl
-and requested that way, sans the MITM so there would be nothing to detect
+> and requested that way, sans the MITM so there would be nothing to detect
 
 ![curl-weird-request.webp](./tech/assets/curl-weird-request.webp)
 
 > and it went through 😳 i have no idea what I just sent off
 
-*x:*
+_x:_
+
 > Lmao Hopefully nothing too identifiable
 
-*me:*
+_me:_
+
 > The more I research this the weirder this gets
 >
 > I really dont like this
 
-*me:*
+_me:_
+
 > so in trying to figure out what "egslb" means Ive been coming across some interesting results like this domain `remoteaccess.egslb.transport.nsw.gov.au` which has this description: `Transport for NSW Remote Access VPN Portal`. so I google that and this is the top result:
 
 ```md
 remoteaccess.egslb.transport.nsw.gov.au
+
 # https://remoteaccess.egslb.transport.nsw.gov.au
+
 Secure Logon for F5 Networks. Logon using Authorization Code grant type. AzureAD. Transport for NSW Remote Access VPN Portal.
 ```
 
@@ -232,7 +257,7 @@ Secure Logon for F5 Networks. Logon using Authorization Code grant type. AzureAD
 
 ---
 
-It's *2025/08/29* today, this request still keeps me up sometimes; wondering what it was. I decided to see what ChatGPT 5 would hallucinate.
+It's _2025/08/29_ today, this request still keeps me up sometimes; wondering what it was. I decided to see what ChatGPT 5 would hallucinate.
 
 ![gpt5 prompt](./tech/assets/image.png)
 
@@ -365,7 +390,6 @@ Security control needed:
 
 ### 3. Attack Graph: Endpoint Enumeration
 
-
 ```css
 Attacker ──> [IUMServlet]
              │
@@ -382,7 +406,6 @@ Control:
 - Input validation, schema enforcement, minimal error detail.
 - Rotate User-Agent secrets (don’t expose OS internals).
 
-
 ### 4. Attack Graph: Cross-Domain Abuse
 
 ```css
@@ -392,6 +415,7 @@ Attacker ──> [F5 EGSLB Node]
                │
                └─> VPN Portal Parallels (gov AU example) ──> Cross-system exploit reuse
 ```
+
 Control:
 
 - Secure DNS, DNSSEC.
@@ -421,7 +445,7 @@ Control:
 
 #### Network protection
 
-- DNSSEC for *.egslb.net.rogers.com.
+- DNSSEC for \*.egslb.net.rogers.com.
 - Monitor GSLB for rogue/fake nodes.
 
 #### Device-side
@@ -433,7 +457,6 @@ Control:
 
 - SIEM rules: unusual access to /ium-OEMInterface/….
 - Honey endpoints to trap fuzzers.
-
 
 ---
 

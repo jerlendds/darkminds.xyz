@@ -7,8 +7,8 @@ date: 2023-12-25
 
 Hello,
 
-We may only have a moment. The machine's hold on your attention has been broken. Here we are, together, in a more intimate domain. What waits demands a steep price: your [**finite attention**](./Excerpts/finite-attention.md). Attention may be the most valuable resource that exists on Earth, tragically neglected or exploited for ends which I have no interest in furthering myself. So what has so thoroughly diverted us from the matters and mysteries that demand of us the most?
-a
+We may only have a moment. The machine's hold on your attention has been broken. Here we are, together, in a more intimate domain. What waits demands a steep price: your [**finite attention**](./Writing/finite-attention.md). Attention may be the most valuable resource that exists on Earth, tragically neglected or exploited for ends which I have no interest in furthering myself. So what has so thoroughly diverted us from the matters and mysteries that demand of us the most?
+
 All the best,
 
 _jerlendds_

@@ -30,10 +30,14 @@ It makes some identities more available than others.
 
 3.  **com.jerlendds.flow**: Paginated canvas with zoom levels. For architecture diagrams, mind maps, etc.
 
-4.  **com.jerlendds.zero**: Inbox zero concept when adding new reading material i.e. web pages, books, research PDFs, etc.
+4.  **com.jerlendds.queue**: Inbox zero concept when adding new reading material i.e. web pages, books, research PDFs, etc.
 
 5.  **com.jerlendds.memory**: Spaced repetition note book and flashcards. Interoperability with Anki would be cool.
-6.  **com.jerlendds.track**: Track as many stats on the device as we can access i.e. <!-- more metric ideas here: https://chatgpt.com/c/6a51afcc-e4a4-83e8-8c10-3d509af41424 -->
+
+6.  **com.jerlendds.launcher**: Self-explanatory, build a custom Android launcher...
+
+7.  **com.jerlendds.track**: <details> <summary> Track as many stats on the device as we can access </summary>
+    i.e. <!-- more metric ideas here: https://chatgpt.com/c/6a51afcc-e4a4-83e8-8c10-3d509af41424 -->
     - Active reading time
     - Session frequency
     - Session fragmentation
@@ -53,9 +57,7 @@ It makes some identities more available than others.
     Could also try and track reading and information-consumption patterns:
     - Source diversity i.e. 64% of news came from three publishers
     - Topic diversity i.e. Your reading covers 12 topic clusters
-    - Viewpoint diversity i.e. Three competing positions were represented
     - Format diversity (essays, news, books, video transcripts, etc)
-    - Evidence-density estimate i.e. presence of references, data, methods, or attributable chain
     - Repetition index i.e. Repeated exposure to substantially identical claims
     - Novelty rate i.e. New concepts versus familiar material
     - Familiarity bias i.e. Preference for previously known sources or ideas
@@ -70,5 +72,23 @@ It makes some identities more available than others.
     - Recognition–recall gap i.e. Difference between recognizing and independently explaining
     - Transfer rate i.e. Use of knowledge in a new context
 
-7.  **com.jerlendds.launcher**: Self-explanatory, build a custom Android launcher...
-8.  **com.jerlendds.**: to be continued...
+</details>
+   
+8.  **com.jerlendds.academy**: to be continued...
+9.  **com.jerlendds.pdf**: to be continued...
+10. **com.jerlendds.keyboard**: to be continued...
+11. **com.jerlendds.queue**: to be continued...
+12. **com.jerlendds.zero**: A notebook where handwritten marks become live objects. i.e. draw table → becomes structured data, circle phrase → make it a tag, draw arrow between concepts → creates typed relation, write “todo: email Alex” → becomes action item, write equation → resolves to LaTeX + symbolic form. ink stays ink, but gains optional computational affordances
+13. **com.jerlendds.malleable**: paper reading and research notes where embeddings, summaries, citations, and links are computed locally or on a user-chosen backend. i.e. offline embeddings, citation graph from your PDFs, semantic search over highlights, daily "what should I read", sync.
+14. **com.jerlendds.eink.clipboard**: A persistent side panel for text snippets, citations, LaTeX fragments, shell commands, links, and prompts. It should support one-tap paste, QR transfer, and local-only storage.
+15. **com.jerlendds.agent.scratchpad**: A local-first agent that does not chat endlessly. It maintains a visible working memory on e-ink. The user can directly edit any part. The agent treats edits as authoritative. This avoids the opaque “assistant blob” problem and makes the AI state inspectable.
+16. **com.jerlendds.web.epub**: A local article cleaner that turns messy web pages into readable e-ink documents. Think Readability + EPUB/PDF generation + font/layout control + offline archive.
+
+17. **com.jerlendds.terminal**: to be continued...
+18. **com.jerlendds.recommender**: to be continued...
+19. **com.jerlendds.ambsheet**: An e-ink spreadsheet for scenarios, tradeoffs, and research planning.
+20. **com.jerlendds.**: to be continued...
+
+## Further reading
+
+- https://arxiv.org/abs/2601.17975

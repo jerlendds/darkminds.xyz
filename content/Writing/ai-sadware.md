@@ -1,5 +1,5 @@
 ---
-title: AI SAd-ware
+title: ai adware
 draft: false
 publish: true
 date: 2026-03-07
