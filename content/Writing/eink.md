@@ -8,6 +8,10 @@ The packaging was satisfying to open and the tablet felt great to use for the fe
 
 # eInk App Ideas
 
-1. **com.jerlendds.riddles**: Recreate Tom Riddles diary from Harry Potter. After you finish writing the written text vanishes and an LLMs response appear as if it was writing a reply to what you wrote.
+1. **com.jerlendds.riddles**: Recreate Tom Riddles diary from Harry Potter. After you finish writing a sentence the written text vanishes and an LLMs response appear as if it was writing a reply to what you wrote.
 
-2. to be continued...
+2. **com.jerlendds.slum**: Connect zlib, sci-hub, annas-archive, etc into a book downloading app. The zlib APK does not work to download books on my BOOX but perhaps I need to experiment with and explore that route more. It would also need to be paginated rather than with the existing scroll navigation so the "Slum" app would be optimized for eink devices.
+
+3. **com.jerlendds.flow**: Paginated canvas with zoom levels. For architecture diagrams, mindmaps, etc.
+
+4. **com.jerlendds.**: to be continued...
